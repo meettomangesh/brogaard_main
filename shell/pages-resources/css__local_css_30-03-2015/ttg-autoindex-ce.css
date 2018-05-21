@@ -1,0 +1,169 @@
+/*
+-- GALLERY DESCRIPTION -- */
+
+#gallery-description {
+	margin: 0; padding: 0;
+	}
+
+.desc-container {
+	margin: 13px auto 0; padding: 0;
+	width: 966px;
+	min-height: 100px;
+	overflow: hidden;
+	background-color: #FFFFFF;
+	border-color: #FFFFFF;
+	border-style: solid;
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-right-width: 1px;
+	box-shadow: 0px 0px 2px #B8B8B8;
+	-moz-box-shadow: 0px 0px 2px #B8B8B8;
+	-webkit-box-shadow: 0px 0px 2px #B8B8B8;
+	border-radius: 8px; -moz-border-radius: 8px;
+	}
+
+.desc-content {
+	margin: 0 auto; padding: 20px 16px 25px;
+	max-width: 869px;
+	text-align: left;
+	position: relative;
+	}
+
+.desc-content h1 {
+	margin-top: 0;
+	margin-bottom: 0.5em;
+	color: #000000;
+	font-size: 28px;
+	}
+
+.desc-content h2 {
+	margin-top: 0;
+	margin-bottom: 0;
+	color: #454444;
+	font-size: 20px;
+	}
+
+.titles {
+	text-align: left;
+	font-weight: normal;
+	font-family: Frutiger, 'Frutiger Linotype', Univers, Calibri, 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', Myriad, 'DejaVu Sans Condensed', 'Liberation Sans', 'Nimbus Sans L', Tahoma, Geneva, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	}
+
+.desc-content p {
+	margin: 1em auto 0;
+	line-height: 1.4em;
+	color: #595959;
+	font-family: Frutiger, 'Frutiger Linotype', Univers, Calibri, 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', Myriad, 'DejaVu Sans Condensed', 'Liberation Sans', 'Nimbus Sans L', Tahoma, Geneva, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	}
+
+#desc-image-container {
+	margin: 0 auto 20px;
+	padding: 0;
+	text-align: center;
+	float: right;
+	margin-left: 16px;
+	margin-bottom: 15px;
+	}
+
+.desc-image {
+	margin: 0 auto;
+	padding: 0;
+	border: 1px solid #FFFFFF;
+	width: 306px;
+	box-shadow: 0px 0px 0px #B8B8B8;
+	-moz-box-shadow: 0px 0px 0px #B8B8B8;
+	-webkit-box-shadow: 0px 0px 0px #B8B8B8;
+	}
+
+.thumbnail-grid {
+	overflow: hidden;
+	position: relative;
+	margin: 30px auto 0;
+	padding: 0;
+	width: 960px;
+	border-color: #000000;
+	border-style: solid;
+	border-top-width: 10px;
+	border-bottom-width: 10px;
+	border-left-width: 10px;
+	border-right-width: 10px;
+	background: #000000;
+	box-shadow: 0px 0px 4px #454444;
+	-moz-box-shadow: 0px 0px 4px #454444;
+	-webkit-box-shadow: 0px 0px 4px #454444;
+	border-radius: 10px; -moz-border-radius: 10px;
+	}
+
+
+#gallery-index {
+	margin: 0px auto 0;
+	padding: 0;
+	width: 951px;
+	height: auto;
+	overflow: visible;
+	}
+
+.album-wrapper {
+	margin: 0 25px 50px;
+	padding: 0;
+	width: 267px;
+	height: 560px;
+	float: left;
+	}
+
+.album-container {
+	margin: 0 auto !important;
+	padding: 0;
+	width: 265px;
+	height: 478px;
+	border: 1px solid #595959;
+	background-color: #454444;
+	text-align: left;
+	position: relative;
+	overflow: hidden;
+	cursor: pointer;
+	box-shadow: 0px 0px 2px #000000;
+	-moz-box-shadow: 0px 0px 2px #000000;
+	-webkit-box-shadow: 0px 0px 2px #000000;
+
+	border-radius: 4px; -moz-border-radius: 4px;
+	}
+
+.album-content {
+	margin: 0;
+	padding: 0;
+	height: 478px;
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-radius: 4px; -moz-border-radius: 4px;
+	}
+
+.album-copy {
+	margin: 6px 0 0;
+	padding: 0;
+	text-align: center;
+	line-height: 1.4em;
+	}
+
+.album-title {
+	margin: 0.5em 0 0.4em;
+	padding: 0;
+	background-color: inherit;
+	color: #FFFFFF;
+	font-family: Frutiger, 'Frutiger Linotype', Univers, Calibri, 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', Myriad, 'DejaVu Sans Condensed', 'Liberation Sans', 'Nimbus Sans L', Tahoma, Geneva, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-weight: normal;
+	font-size: 19px;
+	}
+
+.album-description {
+	margin: 0;
+	padding: 0;
+	background-color: inherit;
+	color: #A6A6A6;
+	font-family: Frutiger, 'Frutiger Linotype', Univers, Calibri, 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', Myriad, 'DejaVu Sans Condensed', 'Liberation Sans', 'Nimbus Sans L', Tahoma, Geneva, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	}
+
+

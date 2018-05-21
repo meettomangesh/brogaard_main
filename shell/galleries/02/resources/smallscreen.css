@@ -1,0 +1,7 @@
+/* iPhone specific styles.  The forced height is used to get round a display bug and also to allow us to remove the navigation bar */
+
+body.landscape { min-height: 536px; width: 960px; }
+
+.landscape .beltobjectwrapper, .landscape #beltcontainer {
+   min-height: 536px;
+}

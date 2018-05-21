@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?> <!--
+Monoslideshow 2.0 configuration file
+Please visit http://www.monoslideshow.com for more info
+-->
+
+
+<album itemPath="album/photos" thumbnailPath="album/thumbnails" thumbnail="album/thumbnails/_BRO8200_Edit.jpg" title="" description="">
+
+	<configuration backgroundColor="#f6f6f6" randomize="true" scaleMode="none" viewportRoundness="13" >
+		<caption displayMode="onHover" >
+			<title/>
+			<description/>
+			<shadow/>
+			<transition/>
+		</caption>
+		<navigation>
+			<albums>
+				<caption>
+					<title/>
+					<description/>
+				</caption>
+				<shadow/>
+				<transition>
+					<shadow/>
+				</transition>
+			</albums>
+			<items>
+				<shadow/>
+				<transition>
+					<shadow/>
+				</transition>
+			</items>
+			<shadow/>
+			<caption>
+				<title/>
+				<description/>
+			</caption>
+		
+		</navigation>
+		<reflection/>
+		<controller backgroundColor="#141414" >
+			<scrubBar/>
+			<shadow/>
+		</controller>
+		<mark>
+			<shadow/>
+		</mark>
+		<progress>
+			<shadow/>
+		</progress>
+		<transition kenBurnsMode="none" time="1.5" type="blend" />
+		<shadow color="#141414" />
+		<thumbnailNavigation>
+			<items>
+				<shadow/>
+				<transition>
+					<shadow/>
+				</transition>
+			</items>
+			<shadow/>
+		</thumbnailNavigation>
+	</configuration>
+
+	<contents>
+
+				<image source="_BRO8200_Edit.jpg" title="HRH Crown Prince Frederik" description="From the book Kronprins Frederik af Danmark" />
+				<image source="_BRO4649_Edit_Edit_Edit_2.jpg" title="TRH Crown Prince Frederik and Crown Princess Mary" description="From the book Kronprins Frederik af Danmark" />
+				<image source="_BRO3225_Edit_Edit_2_Edit.jpg" title="HRH Crown Prince Frederik" description="From the book Kronprins Frederik af Danmark" />
+				<image source="_w8y9970.jpg" title="HRH Princess Isabella " description="Newborn Isabella at her first photo-session" />
+				<image source="_w8y0234.jpg" title="HRH Princess Isabella with parents - TRH The Crown Prince and The Crown Princess" description="Newborn Isabella at her first photo-session" />
+				<image source="_w8y0201.jpg" title="HRH Princess Isabella " description="Newborn Isabella at her first photo-session" />
+				<image source="_BRO7723_Edit_2.jpg" title="HRH Crown Prince Frederik" description="From the book Kronprins Frederik af Danmark" />
+				<image source="_BRO7803_Edit.jpg" title="HRH Crown Prince Frederik" description="From the book Kronprins Frederik af Danmark" />
+				<image source="_BRO4132_Edit.jpg" title="TRH Crown Prince Frederik and Crown Princess Mary" description="From the book Kronprins Frederik af Danmark" />
+				<image source="D9AS6948_zoom_1.jpg" title="TRH Crown Prince Frederik and Crown Princess Mary" description="Amalienborg Castle before the royal couples first official visit to Australia 2007" />
+				<image source="d9as9748_zoom.jpg" title="TRH Crown Prince Frederik and Crown Princess Mary" description="Amalienborg Castle before the royal couples first official visit to Australia 2007" />
+				<image source="_BRO5367.jpg" title="TRH Crown Prince Frederik, Crown Princess Mary, prince Christian and Princess Isabella" description="Breakfast 2007" />
+				<image source="5312_1.jpg" title="HM The Queen, TRH The Prince Consort and Prince Christian, TH Prince Nikolai and Prince Christian" description="At the 40ith anniversary of The Queen and The Prince Consort" />
+				<image source="_BRO3808_Edit.jpg" title="TRH Crown Prince Frederik, Crown Princess Mary, Prince Christian and Princess Isabella" description="From the book Kronprins Frederik af Danmark" />
+				<image source="_w8y3092.jpg" title="HRH Prince Christian" description="One year birthday, 2007" />
+				<image source="_w8y3393.jpg" title="TRH Crown Prince Frederik, Crown Princess Mary and Prince Christian" description="Prince Christians one year birthday" />
+				<image source="_w8y3586.jpg" title="TRH Crown Prince Frederik, Crown Princess Mary and Prince Christian" description="Prince Christians one year birthday" />
+				<image source="D9AS6970_zoom_1.jpg" title="" description="" />
+				<image source="D9AS7660.jpg" title="HRH Crown Prince Frederik" description="Amalienborg 2003" />
+				<image source="D9AS6900_zoom.jpg" title="TRH Crown Prince Frederik and Crown Princess Mary" description="Amalienborg Castle before the royal couples first official visit to Australia 2007" />
+				<image source="_BRO4926_1.jpg" title="HRH Prince Joachim" description="Amalienborg Castle 2009" />
+				<image source="_BRO5193.jpg" title="TRH Prince Joachim and Princess Marie" description="Amalienborg Castle 2009" />
+				<image source="_BRO5255.jpg" title="HRH Princess Marie" description="Amalienborg Castle 2009" />
+				<image source="present_print_9888.jpg" title="HRH Princess Marie" description="Amalienborg Castle 2008" />
+				<image source="_BRO9495.jpg" title="TRH Prince Joachim and Princess Marie" description="Amalienborg Castle 2008" />
+				<image source="_BRO9920.jpg" title="HRH Princess Marie" description="Amalienborg Castle 2008" />
+				<image source="_I5C5211.jpg" title="HRH Prince Joachim" description="Amalienborg Castle 2005" />
+				<image source="joachim_harvesting_0005_std.jpg" title="HRH Prince Joachim" description="Schackenborg 1999" />
+				<image source="_BRO9553.jpg" title="HRH Prince Joachim" description="Mozambique 2008" />
+				<image source="_BRO3195.jpg" title="HRH Prince Joachim" description="Mozambique 2008" />
+				<image source="_BRO1957.jpg" title="HRH Prince Joachim" description="Mozambique 2008" />
+				<image source="_BRO1891.jpg" title="HRH Prince Joachim" description="Mozambique 2008" />
+				<image source="_BRO6642.jpg" title="THe royal wedding" description="Wedding, Schackenborg 2008" />
+				<image source="_BRO6501.jpg" title="THe royal wedding" description="Wedding, Schackenborg 2008" />
+				<image source="_BRO6331.jpg" title="THe royal wedding" description="Wedding, Schackenborg 2008" />
+				<image source="_I5C7607.jpg" title="HH Prince Nikolai" description="At his sixth birthday, 2005" />
+				<image source="_BRO0488.jpg" title="HH Prince Nikolai" description="At his brothers birthday 2008" />
+				<image source="_BRO0479.jpg" title="HH Prince Felix" description="At his 6th birthday, 2008" />
+				<image source="_I5C0979.jpg" title="HH Prince Felix" description="At his third birthday, Schackenborg 2005" />
+				<image source="6F3U2206.jpg" title="HH Prince Nikolai" description="5 years old, 2004, Schackenborg" />
+				<image source="_BRO3720_Edit.jpg" title="HH Prince Nicolai" description="Profile, 10 years old" />
+				<image source="_BRO3838_Edit.jpg" title="TH Prince Nicolai and Prince Felix" description="Birthday 2009" />
+				<image source="_86F9087_Edit.jpg" title="HRH Princess Marie and HH Prince Henrik" description="Prince Henrik 1 year old" />
+				<image source="_86F9118_Edit.jpg" title="HH Prince Henrik" description="One year old" />
+				<image source="_BRO2090_2.jpg" title="HH Prince Nikolai" description="" />
+				<image source="_BRO2154_2.jpg" title="HH Prince Felix" description="" />
+				<image source="_BRO2159_2.jpg" title="HH Prince Nikolai" description="" />
+				<image source="_BRO7400_Edit2.jpg" title="Royale tvillinger" description="Første fotosession med DKH Kronprinsparrets tvillinger, Frederik d. VIII's Palæ, Amalienborg, 22-02-2011." />
+				<image source="_BRO7439_Edit.jpg" title="HRH Prince Vincent" description="Første fotosession med DKH Kronprinsparrets tvillinger, Frederik d. VIII's Palæ, Amalienborg, 22-02-2011." />
+				<image source="_BRO7525_Edit2.jpg" title="Royale tvillinger" description="Første fotosession med DKH Kronprinsparrets tvillinger, Frederik d. VIII's Palæ, Amalienborg, 22-02-2011." />
+				<image source="_BRO7571_Edit.jpg" title="TRH Crownprince Frederik and Crown Princess Mary with newborne twins" description="Første fotosession med DKH Kronprinsparrets tvillinger, Frederik d. VIII's Palæ, Amalienborg, 22-02-2011." />
+				<image source="_BRO7824_Edit2.jpg" title="TRH Crownprince Frederik and Crown Princess Mary with newborne twins" description="Første fotosession med DKH Kronprinsparrets tvillinger, Frederik d. VIII's Palæ, Amalienborg, 22-02-2011." />
+				<image source="_BRO7465_Edit2.jpg" title="HRH Princess Josephine" description="Første fotosession med DKH Kronprinsparrets tvillinger, Frederik d. VIII's Palæ, Amalienborg, 22-02-2011." />
+				<image source="bro_barnedaab_20110414_0005_125_Edit_Edit.jpg" title="Royal Christening" description="Ved dåb af Prins Vincent og Prinsesse Josephine, 14. april 2011." />
+				<image source="bro_barnedaab_20110414_0005_271_Edit_Edit.jpg" title="Royal Christening" description="Ved dåb af Prins Vincent og Prinsesse Josephine, 14. april 2011." />
+				<image source="BRO_20110621__180_edit_edit.jpg" title="TH Prince Nicolai and Prince Felix" description="At Prince Felix 9 years birthday" />
+				<image source="BRO_20110621__28_edit.jpg" title="HH Prince Felix" description="9 years old" />
+				<image source="BRO_20110621__189_edit.jpg" title="" description="" />
+				<image source="BRO_20110621__262_edit.jpg" title="" description="" />
+				
+	</contents>
+	
+</album>
+

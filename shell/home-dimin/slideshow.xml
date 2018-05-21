@@ -1,0 +1,94 @@
+<?xml version="1.0" standalone="no"?>
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+    <config>
+        <transition>random</transition>
+        <repeat>true</repeat>
+        <shuffle>true</shuffle>
+        <rotatetime>5</rotatetime>
+        <volume>75</volume>
+        <audio>http://www.brogaard.com/soundtrack.mp3</audio>
+        <screencolor>0xF5F5F5</screencolor>
+    </config>
+    <trackList>
+        <track>
+            <location>images/_BRO2017.jpg</location>
+            <title>B R O G A A R D</title>
+            <info></info>
+        </track>
+        <track>
+            <location>images/_BRO4692.jpg</location>
+            <title>PERSONLIGE PORTRÆTTER</title>
+            <info></info>
+        </track>
+        <track>
+            <location>images/_BRO1162_Edit.jpg</location>
+            <title>KAMPAGNER</title>
+            <info></info>
+        </track>
+        <track>
+            <location>images/_BRO3867_copy.jpg</location>
+            <title>CAMPAIGN: SJÆLSØ</title>
+            <info></info>
+        </track>
+        <track>
+            <location>images/6F3U6702a.jpg</location>
+            <title>MAGASINER</title>
+            <info></info>
+        </track>
+        <track>
+            <location>images/_I5C9090a.jpg</location>
+            <title>CORPORATE</title>
+            <info></info>
+        </track>
+        <track>
+            <location>images/_BRO1472.jpg</location>
+            <title>CORPORATE</title>
+            <info></info>
+        </track>
+        <track>
+            <location>images/_BRO5281_Edit.jpg</location>
+            <title>CORPORATE PORTRAIT</title>
+            <info></info>
+        </track>
+        <track>
+            <location>images/_BRO3097.jpg</location>
+            <title>CORPORATE PORTRAIT</title>
+            <info></info>
+        </track>
+        <track>
+            <location>images/_BRO7299.jpg</location>
+            <title>REPORTAGE</title>
+            <info></info>
+        </track>
+        <track>
+            <location>images/_BRO8284.jpg</location>
+            <title>REPORTAGE</title>
+            <info></info>
+        </track>
+        <track>
+            <location>images/D9AS0380.jpg</location>
+            <title>GLOBAL: BANGLADESH</title>
+            <info></info>
+        </track>
+        <track>
+            <location>images/D9AS4995A.jpg</location>
+            <title>COMMERCIAL: ALINEA</title>
+            <info></info>
+        </track>
+        <track>
+            <location>images/_BRO9020.jpg</location>
+            <title>DESIGN: JAGUAR</title>
+            <info></info>
+        </track>
+        <track>
+            <location>images/D9AS3242.jpg</location>
+            <title>REPORTAGE</title>
+            <info></info>
+        </track>
+        <track>
+            <location>images/D9AS9123.jpg</location>
+            <title>CORPORATE ÅRSBERETNING</title>
+            <info></info>
+        </track>
+    </trackList>
+</playlist>

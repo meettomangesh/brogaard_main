@@ -1,0 +1,223 @@
+<!-- Wrap each ticker cotent inside <div class="message"> tag -->
+<!-- 
+NOTES: Please follow below format to have a valid RSS format
+ -->
+
+<div>
+<!-- START News Ticker -->
+
+<div class="message">
+
+<!--TITLE--><strong>Kongeligt familiefoto II</strong><!--/TITLE-->
+&nbsp;|&nbsp;
+<!--CONTENT--><a href="http://www.b.dk/nationalt/ekspert-undrer-sig-over-kongehusets-nye-familiebillede-mangler-der-ikke-nogen" target="_blank">Der tolkes og diskuteres i Berlingske</A><!—/CONTENT-->
+&nbsp;|&nbsp;
+<!--DATE-->2016-06-10<!--/DATE-->
+</div>
+
+
+<!--TITLE--><strong>Kongeligt familiefoto</strong><!--/TITLE-->
+&nbsp;|&nbsp;
+<!--CONTENT--><a href="http://kongehuset.dk/foto-video/nyt-officielt-billede" target="_blank">Afbrød rejse i Afrika for at tage dette billede</A><!—/CONTENT-->
+&nbsp;|&nbsp;
+<!--DATE-->2016-04-16<!--/DATE-->
+</div>
+
+
+<!--TITLE--><strong>Det ny Folketing</strong><!--/TITLE-->
+&nbsp;|&nbsp;
+<!--CONTENT--><a href="http://www.tv2lorry.dk/artikel/274295?autoplay=1&video_id=104614" target="_blank">Så er vi igang med portrætter af det nye Folketing.</A><!—/CONTENT-->
+&nbsp;|&nbsp;
+<!--DATE-->2015-06-02<!--/DATE-->
+</div>
+
+
+<div class="message">
+
+<!--TITLE--><strong>First  Breath</strong><!--/TITLE-->
+&nbsp;|&nbsp;
+<!--CONTENT-->I efteråret fotograferede jeg fødsler til Sygehus Sønderjylland - billederne hænger nu som permanent udsmykning på fødegangen.<!—/CONTENT-->
+&nbsp;|&nbsp;
+<!--DATE-->2015-05-13<!--/DATE-->
+</div>
+
+<div class="message">
+
+<!--TITLE--><strong>Rosende omtale</strong><!--/TITLE-->
+&nbsp;|&nbsp;
+<!--CONTENT-->Bogen “Dansk adel siden 1849”, Gad, bliver kaldt et pragtværk i Kristeligt Dagblad - bl.a. på grund af “de smukke fotografier”…<!—/CONTENT-->
+&nbsp;|&nbsp;
+<!--DATE-->2015-05-12<!--/DATE-->
+</div>
+
+
+<div class="message">
+
+<!--TITLE--><strong>Herluf 4Ever</strong><!--/TITLE-->
+&nbsp;|&nbsp;
+<!--CONTENT-->Udover bogen om livet som kostelev på Herlufsholm “I et hav af lyseblå skjorter” har jeg også gennemillustreret Jakob Fällings bog om Herlufsholm: “Herluf 4ever - larmen og livet på Herlufsholm”, der netop er udkommet på Gyldendal.<!—/CONTENT-->
+&nbsp;|&nbsp;
+<!--DATE-->2015-05-11<!--/DATE-->
+</div>
+
+
+<div class="message">
+
+<!--TITLE--><strong>Ny bog</strong><!--/TITLE-->
+&nbsp;|&nbsp;
+<!--CONTENT--><a href="http://www.arnoldbusck.dk/boeger/biografier-erindringer/i-et-hav-af-lyseblaa-skjorter" target="_blank">Susanne Holman og Amanda Brogaard Holman har skrevet teksterne - jeg har fotograferet til coffetable-bogen “I et hav af lyseblå skjorter”</A>.<!—/CONTENT-->
+&nbsp;|&nbsp;
+<!--DATE-->2015-04-28<!--/DATE-->
+</div>
+
+
+<div class="message">
+<!--TITLE--><strong>Familie-foto</strong><!--/TITLE-->
+&nbsp;|&nbsp;
+<!--CONTENT--><a href="http://kongehuset.dk/Menu/foto--video/julen-2014" target="_blank">Stor familie-fotografering 1. juledag på Fredensborg.</A><!—/CONTENT-->
+&nbsp;|&nbsp;
+<!--DATE-->2014-12-25<!--/DATE-->
+</div>
+
+
+<div class="message">
+<!--TITLE--><strong>Laos</strong><!--/TITLE-->
+&nbsp;|&nbsp;
+<!--CONTENT-->Fejrer fødselsdag i Laos på reportagerejse med Prins Joachim og Care Danmark.<!—/CONTENT-->
+&nbsp;|&nbsp;
+<!--DATE-->2014-11-12<!--/DATE-->
+</div>
+
+<div class="message">
+<!--TITLE--><strong>Overfor Havfruen</strong><!--/TITLE-->
+&nbsp;|&nbsp;
+<!--CONTENT-->Mit nye studie på Refshaleøen er nu taget i brug -  selvom der stadig bygges om. Vi fotograferer nu både der og på Sturlasgade.<!--/CONTENT-->
+&nbsp;|&nbsp;
+<!--DATE-->2014-08-09<!--/DATE-->
+</div>
+
+
+<div class="message">
+<!--TITLE--><strong>Konfirmation</strong><!--/TITLE-->
+&nbsp;|&nbsp;
+<!--CONTENT--><a href="http://kongehuset.dk/Menu/foto--video/officielle-billeder-fra-hh-prins-nikolais-konfirmation" target="_blank">Officielle billeder fra HH Prins Nikolais konfirmation frigives</A>.<!--/CONTENT-->
+&nbsp;|&nbsp;
+<!--DATE-->2013-05-18<!--/DATE-->
+</div>
+
+<div class="message">
+<!--TITLE--><strong>Afrika</strong><!--/TITLE-->
+&nbsp;|&nbsp;
+<!--CONTENT-->Reportage-rejse i Tanzania og Kenya 31-08 - 11-09 2012<!--/CONTENT-->
+&nbsp;|&nbsp;
+<!--DATE-->2012-08-27<!--/DATE-->
+</div>
+
+<div class="message">
+<!--TITLE--><strong>+500.000</strong><!--/TITLE-->
+&nbsp;|&nbsp;
+<!--CONTENT-->Nu mere end 500.000 billeder registreret og katalogiseret.<!--/CONTENT-->
+&nbsp;|&nbsp;
+<!--DATE-->2012-07-01<!--/DATE-->
+</div>
+
+<div class="message">
+<!--TITLE--><strong>Barnedåb</strong><!--/TITLE-->
+&nbsp;|&nbsp;
+<!--CONTENT--><a href="http://kongehuset.dk/Menu/foto--video/officielle-billeder-fra-prinsesse-athenas-dab" target="_blank">Officielle billeder fra HH Prinsesse Athenas dåb frigives</A>.<!--/CONTENT-->
+&nbsp;|&nbsp;
+<!--DATE-->2012-05-21<!--/DATE-->
+</div>
+
+<div class="message">
+<!--TITLE--><strong>Nyt studie</strong><!--/TITLE-->
+&nbsp;|&nbsp;
+<!--CONTENT-->Efter 20 år på Nørrebro har jeg rykket teltpælene op. Nyt studie på Sturlasgade!<!--/CONTENT-->
+&nbsp;|&nbsp;
+<!--DATE-->2012-05-15<!--/DATE-->
+</div>
+
+<div class="message">
+<!--TITLE--><strong>Back in BAM</strong><!--/TITLE-->
+&nbsp;|&nbsp;
+<!--CONTENT-->Nu kan Steen Brogaards arkiv-billeder igen købes gennem <a href="http://www.bam.dk" target="_blank">BAM</a>.<!--/CONTENT-->
+&nbsp;|&nbsp;
+<!--DATE-->2012-05-02<!--/DATE-->
+</div>
+
+<div class="message">
+<!--TITLE--><strong>Den lille Prinsesse</strong><!--/TITLE-->
+&nbsp;|&nbsp;
+<!--CONTENT-->De første officielle billeder af DKH Prins Joachims og Prinsesse Maries datter optages på Schackenborg<!--/CONTENT-->
+&nbsp;|&nbsp;
+<!--DATE-->2012-03-10<!--/DATE-->
+</div>
+
+<div class="message">
+<!--TITLE--><strong>Statsrådsmøde</strong><!--/TITLE-->
+&nbsp;|&nbsp;
+<!--CONTENT-->Location: Statsrådssalen. Til stede: HM Dronningen, HKH Kronprinsen, regeringen. Sidst kendte optagelse: 40 år siden v. Elfeldt.<!--/CONTENT-->
+&nbsp;|&nbsp;
+<!--DATE-->2012-01-15<!--/DATE-->
+</div>
+
+<div class="message">
+<!--TITLE--><strong>Another day at the office</strong><!--/TITLE-->
+&nbsp;|&nbsp;
+<!--CONTENT--><a href="http://www.tv2lorry.dk/artikel/76924?autoplay=1&video_id=58835" target="_blank">Lorry laver reportage fra portræt-fotograferingen af det nye Folketing</a>.<!--/CONTENT-->
+&nbsp;|&nbsp;
+<!--DATE-->2011-10-05<!--/DATE-->
+</div>
+
+
+<div class="message">
+<!--TITLE--><strong>Nyt website</strong><!--/TITLE-->
+&nbsp;|&nbsp;
+<!--CONTENT-->Vores site er opgraderet med et væld af nye funktioner, først og fremmest i kunde-gallerierne. disse installeres løbende den næste tid.<!--/CONTENT-->
+&nbsp;|&nbsp;
+<!--DATE-->2011-09-12<!--/DATE-->
+</div>
+
+
+<div class="message">
+<!--TITLE--><strong>En fotograf er født</strong><!--/TITLE-->
+&nbsp;|&nbsp;
+<!--CONTENT-->Ida udlært - Med et flot 12-tal har Ida nu bestået sin svendeprøve og er udlært som fotograf!<!--/CONTENT-->
+&nbsp;|&nbsp;
+<!--DATE-->2011-09-01<!--/DATE-->
+</div>
+
+<div class="message">
+<!--TITLE--><strong>En forudsigelig skandale?</strong><!--/TITLE-->
+&nbsp;|&nbsp;
+<!--CONTENT--><a href="http://www.brogaard.com/dokumentation" target="_blank">Velkommen på forsiden</a> - Længe leve Photoshop - artikel i Ekstra Bladet - se dokumentation<!--/CONTENT-->
+&nbsp;|&nbsp;
+<!--DATE-->2011-08-31<!--/DATE-->
+</div>
+
+<div class="message">
+<!--TITLE--><strong>Artikel i tysk avis</strong><!--/TITLE-->
+&nbsp;|&nbsp;
+<!--CONTENT--><a href="http://www.brogaard.com/hamlet" target="_blank">Fotograf for Hamlet</a> - Shakespeares gamle skuespil fotograferet for Düsseldorfer Schauspielhus<!--/CONTENT-->
+&nbsp;|&nbsp;
+<!--DATE-->2011-06-01<!--/DATE-->
+</div>
+
+<div class="message">
+<!--TITLE--><strong>Udstilling i Kina</strong><!--/TITLE-->
+&nbsp;|&nbsp;
+<!--CONTENT--><a href="http://www.danishculture.cn/en/exhibition/Steen.html">Udstillingen Tales From The Top of Europe åbner 7. april i Chengdu, Kina</a><!--/CONTENT-->
+&nbsp;|&nbsp;
+<!--DATE-->2011-04-22<!--/DATE-->
+</div>
+
+<div class="message">
+<!--TITLE--><strong>Interview</strong><!--/TITLE-->
+&nbsp;|&nbsp;
+<!--CONTENT--><a href="http://blog.hellomagazine.com/theres-something-mary/2011/03/celebrating-a-greater-meaning-of-life-interview-with-steen-brogaard-royal-photographer.html">Interviewes til Hello Magazine</a><!--/CONTENT-->
+&nbsp;|&nbsp;
+<!--DATE-->2011-04-02<!--/DATE-->
+</div>
+
+<!-- END News Ticker -->
+</div>

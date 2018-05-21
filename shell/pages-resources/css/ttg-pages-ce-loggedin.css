@@ -1,0 +1,634 @@
+.thumbnail-grid {
+	overflow: hidden;
+	position: relative;
+	margin: 30px auto 0;
+	padding: 0;
+	width: 960px;
+	border-color: #000000;
+	border-style: solid;
+	border-top-width: 10px;
+	border-bottom-width: 10px;
+	border-left-width: 10px;
+	border-right-width: 10px;
+	background: #000000;
+	box-shadow: 0px 0px 4px #454444;
+	-moz-box-shadow: 0px 0px 4px #454444;
+	-webkit-box-shadow: 0px 0px 4px #454444;
+	border-radius: 10px; -moz-border-radius: 10px;
+	}
+
+
+#gallery-index {
+	margin: 0px auto 0;
+	padding: 0;
+	width: 951px;
+	height: auto;
+	overflow: visible;
+	}
+
+.album-wrapper {
+	margin: 0 25px 50px;
+	padding: 0;
+	width: 267px;
+	height: 560px;
+	float: left;
+	}
+
+.album-container {
+	margin: 0 auto !important;
+	padding: 0;
+	width: 265px;
+	height: 478px;
+	border: 1px solid #595959;
+	background-color: #454444;
+	text-align: left;
+	position: relative;
+	overflow: hidden;
+	cursor: pointer;
+	box-shadow: 0px 0px 2px #000000;
+	-moz-box-shadow: 0px 0px 2px #000000;
+	-webkit-box-shadow: 0px 0px 2px #000000;
+
+	border-radius: 4px; -moz-border-radius: 4px;
+	}
+
+.album-content {
+	margin: 0;
+	padding: 0;
+	height: 478px;
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-radius: 4px; -moz-border-radius: 4px;
+	}
+
+.album-copy {
+	margin: 6px 0 0;
+	padding: 0;
+	text-align: center;
+	line-height: 1.4em;
+	}
+
+.album-title {
+	margin: 0.5em 0 0.4em;
+	padding: 0;
+	background-color: inherit;
+	color: #FFFFFF;
+	font-family: Frutiger, 'Frutiger Linotype', Univers, Calibri, 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', Myriad, 'DejaVu Sans Condensed', 'Liberation Sans', 'Nimbus Sans L', Tahoma, Geneva, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-weight: normal;
+	font-size: 19px;
+	}
+
+.album-description {
+	margin: 0;
+	padding: 0;
+	background-color: inherit;
+	color: #A6A6A6;
+	font-family: Frutiger, 'Frutiger Linotype', Univers, Calibri, 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', Myriad, 'DejaVu Sans Condensed', 'Liberation Sans', 'Nimbus Sans L', Tahoma, Geneva, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	}
+
+
+/*
+-- Global Page Styling -- */
+
+.page-container {
+	clear:both;
+	margin: 14px auto 0;
+	padding: 0px 0;
+	border: 3px solid #FFFFFF;
+	/*border: 1px ridge #dedede;*/
+	width: 966px;
+	text-align: center;
+	background : white;
+    background-color: rgb(255,255,255); /* Needed for IEs */
+	color: #595959;
+	overflow: visible;
+	-webkit-box-shadow: 0px 0px 2px #646464;
+	-moz-box-shadow: 0px 0px 2px #646464;
+	box-shadow: 0px 0px 2px #646464;
+	border-radius: 8px; -moz-border-radius: 8px;
+
+/* 
+        margin: 40px;
+        background-color: rgb(68,68,68); 
+
+        -moz-box-shadow: 5px 5px 5px rgba(68,68,68,0.6);
+        -webkit-box-shadow: 5px 5px 5px rgba(68,68,68,0.6);
+        box-shadow: 5px 5px 5px rgba(68,68,68,0.6); */
+/*
+        filter: progid:DXImageTransform.Microsoft.Blur(PixelRadius=3,MakeShadow=true,ShadowOpacity=0.30);
+        -ms-filter: "progid:DXImageTransform.Microsoft.Blur(PixelRadius=3,MakeShadow=true,ShadowOpacity=0.30)";
+        zoom: 1; */
+	}
+
+.page-content {
+	margin: 0 auto;
+	padding: 20px;
+	border: 0px solid #F7F7F7;
+	width: 926px;
+	background-color: transparent;
+	color: #595959;
+	overflow: hidden;
+	-webkit-box-shadow: 0px 0px 0px #000000;
+	-moz-box-shadow: 0px 0px 0px #000000;
+	box-shadow: 0px 0px 0px #000000;
+	border-radius: 0px; -moz-border-radius: 0px;
+	}
+
+.page-image {
+	margin: 0;
+	padding: 0px;
+	border: 1px solid #A3A3A3;
+	background-color: #3D3E3E;
+	display: inline-block;
+	-webkit-box-shadow: 0px 0px 2px #838383;
+	-moz-box-shadow: 0px 0px 2px #838383;
+	box-shadow: 0px 0px 2px #838383;
+	border-radius: 4px; -moz-border-radius: 4px;
+	}
+
+.copy {
+	font-family: Frutiger, 'Frutiger Linotype', Univers, Calibri, 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', Myriad, 'DejaVu Sans Condensed', 'Liberation Sans', 'Nimbus Sans L', Tahoma, Geneva, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	}
+
+.copy h1, .copy h2, .copy h3, .copy h4, .copy h5, .copy h6 {
+	font-family: Frutiger, 'Frutiger Linotype', Univers, Calibri, 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', Myriad, 'DejaVu Sans Condensed', 'Liberation Sans', 'Nimbus Sans L', Tahoma, Geneva, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-weight: normal;
+	line-height: 1.4em;
+	color: #000000;
+	}
+
+.copy h1 {
+	margin:  0 0 19px;
+	font-size: 24px;
+	}
+
+	.copy p + h1, 
+	.copy h1 + h1, 
+	.copy h2 + h1, 
+	.copy h3 + h1, 
+	.copy h4 + h1, 
+	.copy h5 + h1, 
+	.copy h6 + h1, 
+	.copy ol + h1, 
+	.copy ul + h1, 
+	.copy dl + h1, 
+	.copy blockquote + h1 
+	{
+	margin:  29px 0 19px;
+	}
+
+.copy h2 {
+	margin: 0 0 19px;
+	font-size: 20px;
+	}
+
+	.copy p + h2, 
+	.copy h1 + h2, 
+	.copy h2 + h2, 
+	.copy h3 + h2, 
+	.copy h4 + h2, 
+	.copy h5 + h2, 
+	.copy h6 + h2, 
+	.copy ol + h2, 
+	.copy ul + h2, 
+	.copy dl + h2, 
+	.copy blockquote + h2 
+	{
+	margin:  19px 0;
+	}
+
+.copy h3 {
+	margin: 0 0 19px;
+	font-size: 16px;
+	}
+
+	.copy p + h3, 
+	.copy h1 + h3, 
+	.copy h2 + h3, 
+	.copy h3 + h3, 
+	.copy h4 + h3, 
+	.copy h5 + h3, 
+	.copy h6 + h3, 
+	.copy ol + h3, 
+	.copy ul + h3, 
+	.copy dl + h3, 
+	.copy blockquote + h3 
+	{
+	margin:  19px 0;
+	}
+
+.copy h4 {
+	margin: 0 0 19px;
+	font-size: 14px;
+	}
+
+	.copy p + h4, 
+	.copy h1 + h4, 
+	.copy h2 + h4, 
+	.copy h3 + h4, 
+	.copy h4 + h4, 
+	.copy h5 + h4, 
+	.copy h6 + h4, 
+	.copy ol + h4, 
+	.copy ul + h4, 
+	.copy dl + h4, 
+	.copy blockquote + h4 
+	{
+	margin:  19px 0;
+	}
+
+.copy h5 {
+	margin: 0 0 19px;
+	font-size: 12px;
+	}
+
+	.copy p + h5, 
+	.copy h1 + h5, 
+	.copy h2 + h5, 
+	.copy h3 + h5, 
+	.copy h4 + h5, 
+	.copy h5 + h5, 
+	.copy h6 + h5, 
+	.copy ol + h5, 
+	.copy ul + h5, 
+	.copy dl + h5, 
+	.copy blockquote + h5 
+	{
+	margin:  19px 0;
+	}
+
+.copy h6 {
+	margin: 0 0 19px;
+	font-size: 10px;
+	}
+
+	.copy p + h6, 
+	.copy h1 + h6, 
+	.copy h2 + h6, 
+	.copy h3 + h6, 
+	.copy h4 + h6, 
+	.copy h5 + h6, 
+	.copy h6 + h6, 
+	.copy ol + h6, 
+	.copy ul + h6, 
+	.copy dl + h6, 
+	.copy blockquote + h6 
+	{
+	margin:  19px 0;
+	}
+
+.copy p {
+	margin: 0 0 1.4em;
+	font-family: Frutiger, 'Frutiger Linotype', Univers, Calibri, 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', Myriad, 'DejaVu Sans Condensed', 'Liberation Sans', 'Nimbus Sans L', Tahoma, Geneva, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	line-height: 1.4em;
+	}
+
+.copy p + p, 
+.copy h1 + p, 
+.copy h2 + p, 
+.copy h3 + p, 
+.copy h4 + p, 
+.copy h5 + p, 
+.copy h6 + p, 
+.copy ol + p, 
+.copy ul + p,
+.copy dl + p,
+.copy blockquote + p {
+	margin: 1.4em 0;
+	}
+
+.copy li {
+	margin: 1.4em 0;
+	font-family: Frutiger, 'Frutiger Linotype', Univers, Calibri, 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', Myriad, 'DejaVu Sans Condensed', 'Liberation Sans', 'Nimbus Sans L', Tahoma, Geneva, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	line-height: 1.4em;
+	}
+
+.copy a {
+	color: #F45912;
+	text-decoration: nil;
+	}
+
+.copy a:hover {
+	color: #2C2C2C;
+	text-decoration: nil;
+	}
+
+.copy blockquote {
+	margin: 39px;
+	font-style: oblique;
+	}
+
+.copy em {
+	font-style: oblique;
+	}
+
+.copy strong {
+	font-weight: bold;
+	}
+
+.copy ul, .copy ol {
+	padding-left: 25px;
+	}
+
+.copy li {
+	margin: 0;
+	line-height: 1.4em;
+	}
+
+.copy ul li {
+	list-style: square;
+	}
+
+.copy ol li {
+	list-style: decimal;
+	}
+
+
+/*
+-- Home Page -- */
+
+.home-container {
+
+	}
+
+.home-content {
+
+	}
+
+
+.home-copy {
+	text-align: left;
+
+
+		float: right;
+		width: -16px;
+	
+	}
+
+
+/*
+-- Gallery Index Page -- */
+
+.galleryindex-copy {
+	text-align: left;
+	}
+
+
+/*
+-- Services Page -- */
+
+.services-container {
+
+	}
+
+.services-content {
+
+	}
+
+.services-image {
+	margin: 0;
+	width: 348px;
+	}
+
+.services-copy {
+	text-align: left;
+
+
+	
+	}
+
+
+/*
+-- Info Page -- */
+
+.info-container {
+
+	}
+
+.info-content {
+
+	}
+
+
+.info-copy {
+	text-align: left;
+
+		float: left;
+		width: -16px;
+	
+	}
+
+
+/*
+-- About Page -- */
+
+.about-container {
+
+	}
+
+.about-content {
+
+	}
+
+
+.about-copy {
+	text-align: left;
+
+
+		float: left;
+		width: -36px;
+	
+	}
+
+
+/*
+-- Contact Page -- */
+
+.contact-container {
+
+	}
+
+.contact-content {
+
+	}
+
+.contact-image {
+	margin: 0;
+	width: 406px;
+	float: right;
+	}
+
+.contact-copy {
+	text-align: left;
+
+
+		float: left;
+		width: 518px;
+	
+	}
+
+.contact-form-container {
+	margin: 0;
+
+
+		float: left; clear: left;
+		width: 518px;
+	
+	}
+
+.contact-form-content {
+	text-align: left;
+	}
+
+.contact-form-container fieldset {
+	margin: 0;
+	padding: 0;
+	}
+
+.contact-form-container label {
+	margin: 1em 0 0.2em;
+	display: block;
+	color: #454444;
+	font-family: Frutiger, 'Frutiger Linotype', Univers, Calibri, 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', Myriad, 'DejaVu Sans Condensed', 'Liberation Sans', 'Nimbus Sans L', Tahoma, Geneva, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	}
+
+.contact-form-container input[type=text], input[type=password], textarea {
+	padding: 5px 8px;
+	width: 65%;
+	max-width: 460px;
+	font-family: Frutiger, 'Frutiger Linotype', Univers, Calibri, 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', Myriad, 'DejaVu Sans Condensed', 'Liberation Sans', 'Nimbus Sans L', Tahoma, Geneva, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 1em;
+	color: #666666;
+	border: none;
+	text-align: left;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-o-border-radius: 4px;
+	border-radius: 4px;
+	}
+
+.contact-form-container input[type=text], input[type=password] {
+	background-image: -webkit-gradient(linear, 0% 0%, 0% 12%, from(#999), to(#FFFFFF));
+	background-image: -moz-linear-gradient(0% 12% 90deg, #FFFFFF, #999);
+	background-color: #FFFFFF;
+	}
+
+.contact-form-container textarea {
+	background-image: -webkit-gradient(linear, 0% 0%, 0% 3%, from(#999), to(#FFFFFF));
+	background-image: -moz-linear-gradient(0% 4% 90deg, #FFFFFF, #999);
+	background-color: #FFFFFF;
+	}
+
+.contact-form-container input[type=text]:focus, input[type=password]:focus, textarea:focus {
+	-webkit-box-shadow: 0 0 12px #33CCFF;
+	-moz-box-shadow: 0 0 12px #33CCFF;
+	box-shadow: 0 0 12px #33CCFF;
+	}
+
+.contact-form-container input[type=submit] {
+	margin: 1em 0;
+	padding: 8px 15px 6px;
+	width: 250px;
+	border: none;
+	font-family: Frutiger, 'Frutiger Linotype', Univers, Calibri, 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', Myriad, 'DejaVu Sans Condensed', 'Liberation Sans', 'Nimbus Sans L', Tahoma, Geneva, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	line-height: 1;
+	color: #191919;
+	text-shadow: 0 1px 1px rgba( 255, 255, 255, 0.25 );
+	background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(rgba( 255, 255, 255, 0 )), to(#BBBBBB));
+	background-image: -moz-linear-gradient(0% 100% 90deg, #BBBBBB, rgba( 255, 255, 255, 0 ) );
+	background-color: #FFFFFF;
+	-webkit-border-radius: 23px;
+	-moz-border-radius: 23px;
+	-o-border-radius: 23px;
+	border-radius: 23px;
+	-webkit-box-shadow: 0 1px 2px rgba( 0, 0, 0, 0.5 );
+	-moz-box-shadow: 0 1px 2px rgba( 0, 0, 0, 0.5 );
+	box-shadow: 0 1px 2px rgba( 0, 0, 0, 0.5 );
+	}
+
+.contact-form-container input[type=submit]:hover {
+	color: nil;
+	background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(rgba( 255, 255, 255, 0 )), to(#595959));
+	background-image: -moz-linear-gradient(0% 100% 90deg, #595959, rgba( 255, 255, 255, 0 ) );
+	background-color: nil;
+	}
+
+
+
+
+
+
+/*
+ * Stage
+ */
+
+#frame {
+	margin: 0px auto 20px;
+	overflow: hidden;
+	padding: 10px;
+	border-width: 1px;
+	border-color: #F4F4F4;
+	border-style: solid;
+	background-color: #F4F4F4;
+	-webkit-box-shadow: 0px 0px 0px #000000;
+	-moz-box-shadow: 0px 0px 0px #000000;
+	box-shadow: 0px 0px 0px #000000;
+	}
+	
+.home-stage {
+	width: 900px;
+	height: 600px;
+	float: left;
+	}
+
+.services-stage {
+	width: 900px;
+	height: 600px;
+	}
+
+.info-stage {
+	width: 900px;
+	height: 900px;
+	float: right;
+	}
+
+.about-stage {
+	width: 920px;
+	height: 647px;
+	float: right;
+	}
+
+.contact-stage {
+	width: 900px;
+	height: 600px;
+	float: right;
+	}
+
+#flashcontent {
+	margin: 0 auto;
+	padding: 0;
+	border-width: 0px;
+	border-color: #000000;
+	border-style: solid;
+	background-color: #F4F4F4;
+	display: block;
+	float: none;
+	}
+
+#frame p, #liquid p {
+	margin-top: 1em;
+	margin-bottom: 1em;
+	}
+
+.stage-container img {
+	padding: 0;
+	border: none;
+	max-width: 100%;
+	max-height: 100%;
+	}

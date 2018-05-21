@@ -1,0 +1,452 @@
+[11/16/2011 7:16 PM] - SUCCESS :Paypal Class Intiated by 66.211.170.66
+[11/16/2011 7:16 PM] - SUCCESS :Post string : mc_gross=110.00&protection_eligibility=Ineligible&payer_id=KMR4WCF7TYQG4&tax=0.00&payment_date=11%3A16%3A51+Nov+16%2C+2011+PST&payment_status=Completed&charset=windows-1252&first_name=Susanne+Holman&mc_fee=6.34&notify_version=3.4&custom=&payer_status=verified&business=paypal%40brogaard.com&quantity=1&verify_sign=Abf.wU2YLhyydEN.JMYaSbNJ8YP2A2j.0Kxzp5Gl8oRDO1VUcIwmBAtr&payer_email=info%40frkholman.dk&txn_id=7V74620812503770M&payment_type=instant&payer_business_name=Galleri+Maleriet&last_name=Hansen&receiver_email=paypal%40brogaard.com&payment_fee=&receiver_id=KJ8XAP5BBFL34&txn_type=web_accept&item_name=110+kr+for+1+m%E5neds+adgang&mc_currency=DKK&item_number=1&residence_country=DK&handling_amount=0.00&transaction_subject=110+kr+for+1+m%E5neds+adgang&payment_gross=&shipping=0.00&ipn_track_id=KgXNUSr.WLAdQheXLa92FA&
+[11/16/2011 7:16 PM] - SUCCESS :Validating prodcut 1
+[11/16/2011 7:16 PM] - SUCCESS :Connection to www.paypal.com successfuly completed.
+[11/16/2011 7:16 PM] - SUCCESS :IPN successfully verified.
+[11/16/2011 7:16 PM] - SUCCESS :Creating prodcut Information to send.
+[11/16/2011 7:16 PM] - SUCCESS :Product Email successfully sent to info@frkholman.dk.
+[11/16/2011 7:16 PM] - SUCCESS :Notify Email successfully sent to hdsubscription@brogaard.com.
+[11/16/2011 7:16 PM] - SUCCESS :Paypal class finished.
+
+------------------------------------------------------------------
+
+[12/03/2011 8:57 PM] - SUCCESS :Paypal Class Intiated by 66.211.170.66
+[12/03/2011 8:57 PM] - SUCCESS :Post string : mc_gross=110.00&protection_eligibility=Ineligible&payer_id=BFS76GPFB9T8J&tax=0.00&payment_date=12%3A56%3A58+Dec+03%2C+2011+PST&payment_status=Completed&charset=windows-1252&first_name=Rasmus+Tj%F8rneskov&mc_fee=6.34&notify_version=3.4&custom=&payer_status=unverified&business=paypal%40brogaard.com&quantity=1&verify_sign=AKZHE.7Itx--qQsMPk89DXu7FwLuA2a3GOljLd5oer3SgljbI-u.5dvq&payer_email=05raje%40herlufsholm.dk&txn_id=58W919821F725642F&payment_type=instant&last_name=Jensen&receiver_email=paypal%40brogaard.com&payment_fee=&receiver_id=KJ8XAP5BBFL34&txn_type=web_accept&item_name=110+kr+for+1+m%E5neds+adgang&mc_currency=DKK&item_number=1&residence_country=DK&receipt_id=1331-6402-5460-9341&handling_amount=0.00&transaction_subject=110+kr+for+1+m%E5neds+adgang&payment_gross=&shipping=0.00&ipn_track_id=81RIj1IVPL-GvNe4U6Ahig&
+[12/03/2011 8:57 PM] - SUCCESS :Validating prodcut 1
+[12/03/2011 8:57 PM] - SUCCESS :Connection to www.paypal.com successfuly completed.
+[12/03/2011 8:57 PM] - SUCCESS :IPN successfully verified.
+[12/03/2011 8:57 PM] - SUCCESS :Creating prodcut Information to send.
+[12/03/2011 8:57 PM] - SUCCESS :Product Email successfully sent to 05raje@herlufsholm.dk.
+[12/03/2011 8:57 PM] - SUCCESS :Notify Email successfully sent to hdsubscription@brogaard.com.
+[12/03/2011 8:57 PM] - SUCCESS :Paypal class finished.
+
+------------------------------------------------------------------
+
+[12/11/2011 1:41 PM] - SUCCESS :Paypal Class Intiated by 66.211.170.66
+[12/11/2011 1:41 PM] - SUCCESS :Post string : mc_gross=110.00&protection_eligibility=Ineligible&payer_id=9PDWAQUUAX5A8&tax=0.00&payment_date=05%3A41%3A08+Dec+11%2C+2011+PST&payment_status=Completed&charset=windows-1252&first_name=birgitte&mc_fee=6.34&notify_version=3.4&custom=&payer_status=unverified&business=paypal%40brogaard.com&quantity=1&verify_sign=AQLlyJOkHhY4ggisLHmpVBWSHyuUATPzP1dcGJ0ikTtsGVQTx69aKD20&payer_email=birgitterixen%40hotmail.com&txn_id=35694176FJ050493U&payment_type=instant&last_name=rixen+r%F8rbye&receiver_email=paypal%40brogaard.com&payment_fee=&receiver_id=KJ8XAP5BBFL34&txn_type=web_accept&item_name=110+kr+for+1+m%E5neds+adgang&mc_currency=DKK&item_number=1&residence_country=DK&receipt_id=4271-4759-1089-2437&handling_amount=0.00&transaction_subject=110+kr+for+1+m%E5neds+adgang&payment_gross=&shipping=0.00&ipn_track_id=LWAfGwPCwjKjo2JXO2XxPA&
+[12/11/2011 1:41 PM] - SUCCESS :Validating prodcut 1
+[12/11/2011 1:41 PM] - SUCCESS :Connection to www.paypal.com successfuly completed.
+[12/11/2011 1:41 PM] - SUCCESS :IPN successfully verified.
+[12/11/2011 1:41 PM] - SUCCESS :Creating prodcut Information to send.
+[12/11/2011 1:41 PM] - SUCCESS :Product Email successfully sent to birgitterixen@hotmail.com.
+[12/11/2011 1:41 PM] - SUCCESS :Notify Email successfully sent to hdsubscription@brogaard.com.
+[12/11/2011 1:41 PM] - SUCCESS :Paypal class finished.
+
+------------------------------------------------------------------
+
+[08/01/2012 6:18 PM] - SUCCESS :Paypal Class Intiated by 173.0.81.1
+[08/01/2012 6:18 PM] - SUCCESS :Post string : mc_gross=110.00&protection_eligibility=Ineligible&payer_id=X9A2V3ZMC23U8&tax=0.00&payment_date=11%3A17%3A57+Aug+01%2C+2012+PDT&payment_status=Completed&charset=windows-1252&first_name=Astrid&mc_fee=6.89&notify_version=3.5&custom=&payer_status=unverified&business=paypal%40brogaard.com&quantity=1&verify_sign=AeYCAdNKcFjwvpU6XVW3B8YejxhxAeGBY9r50QOWaQLQCHqvdbAbTzi0&payer_email=astrid.iversen%40yahoo.com&txn_id=64608728PN462943D&payment_type=instant&last_name=Fugger&receiver_email=paypal%40brogaard.com&payment_fee=&receiver_id=KJ8XAP5BBFL34&txn_type=web_accept&item_name=110+kr+for+1+m%E5neds+adgang&mc_currency=DKK&item_number=1&residence_country=GB&receipt_id=3050-9906-9608-9247&handling_amount=0.00&transaction_subject=110+kr+for+1+m%E5neds+adgang&payment_gross=&shipping=0.00&ipn_track_id=b48a9fa7a29e2&
+[08/01/2012 6:18 PM] - SUCCESS :Validating prodcut 1
+[08/01/2012 6:18 PM] - SUCCESS :Connection to www.paypal.com successfuly completed.
+[08/01/2012 6:18 PM] - SUCCESS :IPN successfully verified.
+[08/01/2012 6:18 PM] - SUCCESS :Creating prodcut Information to send.
+[08/01/2012 6:18 PM] - SUCCESS :Product Email successfully sent to astrid.iversen@yahoo.com.
+[08/01/2012 6:18 PM] - SUCCESS :Notify Email successfully sent to hdsubscription@brogaard.com.
+[08/01/2012 6:18 PM] - SUCCESS :Paypal class finished.
+
+------------------------------------------------------------------
+
+[08/26/2012 12:52 PM] - SUCCESS :Paypal Class Intiated by 173.0.81.1
+[08/26/2012 12:52 PM] - SUCCESS :Post string : transaction_subject=110+kr+for+1+m%E5neds+adgang&payment_date=05%3A52%3A40+Aug+26%2C+2012+PDT&txn_type=web_accept&last_name=Sieck&residence_country=DK&item_name=110+kr+for+1+m%E5neds+adgang&payment_gross=&mc_currency=DKK&business=paypal%40brogaard.com&payment_type=instant&protection_eligibility=Ineligible&verify_sign=ATLOyARaxem77XSq8Fm2208zfi5tAkyMcrnTUYBVBDnk35K0aYtpYJLe&payer_status=verified&tax=0.00&payer_email=ssi%40herlufsholm.dk&txn_id=3PJ12854A2601671M&quantity=1&receiver_email=paypal%40brogaard.com&first_name=Samuel+Veng&payer_id=8DR5JRSUGV4LE&receiver_id=KJ8XAP5BBFL34&item_number=1&handling_amount=0.00&payment_status=Completed&payment_fee=&mc_fee=6.34&shipping=0.00&mc_gross=110.00&custom=&charset=windows-1252&notify_version=3.6&ipn_track_id=9ab947aa6b044&
+[08/26/2012 12:52 PM] - SUCCESS :Validating prodcut 1
+[08/26/2012 12:52 PM] - SUCCESS :Connection to www.paypal.com successfuly completed.
+[08/26/2012 12:52 PM] - SUCCESS :IPN successfully verified.
+[08/26/2012 12:52 PM] - SUCCESS :Creating prodcut Information to send.
+[08/26/2012 12:52 PM] - SUCCESS :Product Email successfully sent to ssi@herlufsholm.dk.
+[08/26/2012 12:52 PM] - SUCCESS :Notify Email successfully sent to hdsubscription@brogaard.com.
+[08/26/2012 12:52 PM] - SUCCESS :Paypal class finished.
+
+------------------------------------------------------------------
+
+[09/02/2012 1:01 PM] - SUCCESS :Paypal Class Intiated by 173.0.81.1
+[09/02/2012 1:01 PM] - SUCCESS :Post string : mc_gross=110.00&protection_eligibility=Ineligible&payer_id=3TH9EVSD49B4A&tax=0.00&payment_date=06%3A01%3A16+Sep+02%2C+2012+PDT&payment_status=Completed&charset=windows-1252&first_name=Anne&mc_fee=6.34&notify_version=3.6&custom=&payer_status=unverified&business=paypal%40brogaard.com&quantity=1&verify_sign=AUZgaOqCo1oqJhz9LE0AjVqc-ezfAMM04tNHDL9TW15kUSttLf1RG-JY&payer_email=caroline.stroyberg%40gmail.com&txn_id=2F386287VC705013K&payment_type=instant&last_name=Str%F8yberg&receiver_email=paypal%40brogaard.com&payment_fee=&receiver_id=KJ8XAP5BBFL34&txn_type=web_accept&item_name=110+kr+for+1+m%E5neds+adgang&mc_currency=DKK&item_number=1&residence_country=DK&receipt_id=5592-2335-5150-3832&handling_amount=0.00&transaction_subject=110+kr+for+1+m%E5neds+adgang&payment_gross=&shipping=0.00&ipn_track_id=42e293df10725&
+[09/02/2012 1:01 PM] - SUCCESS :Validating prodcut 1
+[09/02/2012 1:01 PM] - SUCCESS :Connection to www.paypal.com successfuly completed.
+[09/02/2012 1:01 PM] - SUCCESS :IPN successfully verified.
+[09/02/2012 1:01 PM] - SUCCESS :Creating prodcut Information to send.
+[09/02/2012 1:01 PM] - SUCCESS :Product Email successfully sent to caroline.stroyberg@gmail.com.
+[09/02/2012 1:01 PM] - SUCCESS :Notify Email successfully sent to hdsubscription@brogaard.com.
+[09/02/2012 1:01 PM] - SUCCESS :Paypal class finished.
+
+------------------------------------------------------------------
+
+[09/14/2012 9:20 AM] - SUCCESS :Paypal Class Intiated by 173.0.81.1
+[09/14/2012 9:20 AM] - SUCCESS :Post string : mc_gross=110.00&protection_eligibility=Ineligible&payer_id=G5M5NMW7ST4DQ&tax=0.00&payment_date=02%3A20%3A05+Sep+14%2C+2012+PDT&payment_status=Completed&charset=windows-1252&first_name=Ida&mc_fee=6.34&notify_version=3.6&custom=&payer_status=unverified&business=paypal%40brogaard.com&quantity=1&verify_sign=AFcWxV21C7fd0v3bYYYRCpSSRl31A6pwMZoimGorgxW17Re8tu-V80fC&payer_email=ida.k.a.boe%40gmail.com&txn_id=7VJ62594DW985013K&payment_type=instant&last_name=Boe&receiver_email=paypal%40brogaard.com&payment_fee=&receiver_id=KJ8XAP5BBFL34&txn_type=web_accept&item_name=110+kr+for+1+m%E5neds+adgang&mc_currency=DKK&item_number=1&residence_country=DK&receipt_id=2295-1835-9798-6318&handling_amount=0.00&transaction_subject=110+kr+for+1+m%E5neds+adgang&payment_gross=&shipping=0.00&ipn_track_id=9f789967a7898&
+[09/14/2012 9:20 AM] - SUCCESS :Validating prodcut 1
+[09/14/2012 9:20 AM] - FAILURE :Connection to www.paypal.com failed.fsockopen error no. : 
+[09/14/2012 9:20 AM] - SUCCESS :Paypal class finished.
+
+------------------------------------------------------------------
+
+[10/07/2012 7:54 PM] - SUCCESS :Paypal Class Intiated by 173.0.81.1
+[10/07/2012 7:54 PM] - SUCCESS :Post string : mc_gross=110.00&protection_eligibility=Ineligible&payer_id=L7D26UC8MLMUY&tax=0.00&payment_date=12%3A54%3A45+Oct+07%2C+2012+PDT&payment_status=Completed&charset=windows-1252&first_name=Teresa&mc_fee=6.34&notify_version=3.7&custom=&payer_status=unverified&business=paypal%40brogaard.com&quantity=1&verify_sign=Az-7lYaCY5RXQ2BJcd7C3M0cHeqTACgsEInYFRAanGQbqLdpEKCU4iwN&payer_email=tess.verbaarschot%40gmail.com&txn_id=72T26551CD4672822&payment_type=instant&last_name=Verbaarschot&receiver_email=paypal%40brogaard.com&payment_fee=&receiver_id=KJ8XAP5BBFL34&txn_type=web_accept&item_name=110+kr+for+1+m%E5neds+adgang&mc_currency=DKK&item_number=1&residence_country=DK&receipt_id=3468-7933-5169-9847&handling_amount=0.00&transaction_subject=110+kr+for+1+m%E5neds+adgang&payment_gross=&shipping=0.00&ipn_track_id=e1adf6641e61d&
+[10/07/2012 7:54 PM] - SUCCESS :Validating prodcut 1
+[10/07/2012 7:54 PM] - SUCCESS :Connection to www.paypal.com successfuly completed.
+[10/07/2012 7:54 PM] - SUCCESS :IPN successfully verified.
+[10/07/2012 7:54 PM] - SUCCESS :Creating prodcut Information to send.
+[10/07/2012 7:54 PM] - SUCCESS :Product Email successfully sent to tess.verbaarschot@gmail.com.
+[10/07/2012 7:54 PM] - SUCCESS :Notify Email successfully sent to hdsubscription@brogaard.com.
+[10/07/2012 7:54 PM] - SUCCESS :Paypal class finished.
+
+------------------------------------------------------------------
+
+[10/29/2012 8:16 AM] - SUCCESS :Paypal Class Intiated by 173.0.81.1
+[10/29/2012 8:16 AM] - SUCCESS :Post string : mc_gross=110.00&protection_eligibility=Ineligible&payer_id=PRPAVQAMLVMXL&tax=0.00&payment_date=01%3A16%3A34+Oct+29%2C+2012+PDT&payment_status=Completed&charset=windows-1252&first_name=Gitte&mc_fee=6.34&notify_version=3.7&custom=&payer_status=unverified&business=paypal%40brogaard.com&quantity=1&verify_sign=AnEtlFOUExX4wCFYhhBuBK8chTADAgB88eMFYuNNgI-B1kRBjcptdYFw&payer_email=gitte%40aagaard-hansen.dk&txn_id=5XP08623HE011944R&payment_type=instant&last_name=Aagaard&receiver_email=paypal%40brogaard.com&payment_fee=&receiver_id=KJ8XAP5BBFL34&txn_type=web_accept&item_name=110+kr+for+1+m%E5neds+adgang&mc_currency=DKK&item_number=1&residence_country=DK&receipt_id=1210-7280-7274-2117&handling_amount=0.00&transaction_subject=110+kr+for+1+m%E5neds+adgang&payment_gross=&shipping=0.00&ipn_track_id=d51e1634d1c46&
+[10/29/2012 8:16 AM] - SUCCESS :Validating prodcut 1
+[10/29/2012 8:16 AM] - SUCCESS :Connection to www.paypal.com successfuly completed.
+[10/29/2012 8:16 AM] - SUCCESS :IPN successfully verified.
+[10/29/2012 8:16 AM] - SUCCESS :Creating prodcut Information to send.
+[10/29/2012 8:16 AM] - SUCCESS :Product Email successfully sent to gitte@aagaard-hansen.dk.
+[10/29/2012 8:16 AM] - SUCCESS :Notify Email successfully sent to hdsubscription@brogaard.com.
+[10/29/2012 8:16 AM] - SUCCESS :Paypal class finished.
+
+------------------------------------------------------------------
+
+[02/10/2013 12:50 PM] - SUCCESS :Paypal Class Intiated by 173.0.81.1
+[02/10/2013 12:50 PM] - SUCCESS :Post string : mc_gross=110.00&protection_eligibility=Ineligible&payer_id=TWH2HHV4CWCYS&tax=0.00&payment_date=04%3A50%3A28+Feb+10%2C+2013+PST&payment_status=Completed&charset=windows-1252&first_name=birgitte&mc_fee=6.34&notify_version=3.7&custom=&payer_status=unverified&business=paypal%40brogaard.com&quantity=1&verify_sign=ArFZ5DF1pEd4euI2jpvbEwe5Q4BiAyQlsmZe2sZqNa1b58shXI1f.gps&payer_email=birgitterixen%40hotmail.com&txn_id=80U66762T3228483A&payment_type=instant&last_name=rixen+r%F8rbye&receiver_email=paypal%40brogaard.com&payment_fee=&receiver_id=KJ8XAP5BBFL34&txn_type=web_accept&item_name=110+kr+for+1+m%E5neds+adgang&mc_currency=DKK&item_number=1&residence_country=DK&receipt_id=0382-0336-9339-6805&handling_amount=0.00&transaction_subject=110+kr+for+1+m%E5neds+adgang&payment_gross=&shipping=0.00&ipn_track_id=dc4e3ec6c6ec7&
+[02/10/2013 12:50 PM] - SUCCESS :Validating prodcut 1
+[02/10/2013 12:50 PM] - SUCCESS :Connection to www.paypal.com successfuly completed.
+[02/10/2013 12:50 PM] - SUCCESS :IPN successfully verified.
+[02/10/2013 12:50 PM] - SUCCESS :Creating prodcut Information to send.
+[02/10/2013 12:50 PM] - SUCCESS :Product Email successfully sent to birgitterixen@hotmail.com.
+[02/10/2013 12:50 PM] - SUCCESS :Notify Email successfully sent to hdsubscription@brogaard.com.
+[02/10/2013 12:50 PM] - SUCCESS :Paypal class finished.
+
+------------------------------------------------------------------
+
+[03/10/2013 2:12 PM] - SUCCESS :Paypal Class Intiated by 173.0.81.1
+[03/10/2013 2:12 PM] - SUCCESS :Post string : mc_gross=110.00&protection_eligibility=Ineligible&payer_id=SP7HMQYY9XAXL&tax=0.00&payment_date=07%3A12%3A12+Mar+10%2C+2013+PDT&payment_status=Completed&charset=windows-1252&first_name=Birgitte&mc_fee=6.34&notify_version=3.7&custom=&payer_status=unverified&business=paypal%40brogaard.com&quantity=1&verify_sign=AMIsJErLWFh1ByQ-Pn.oseCWp0SBAl.bQWD43y7zshZt8at7hnloPVty&payer_email=birgittemoldow%40hotmail.com&txn_id=3F064587SD507863L&payment_type=instant&last_name=Moldow&receiver_email=paypal%40brogaard.com&payment_fee=&receiver_id=KJ8XAP5BBFL34&txn_type=web_accept&item_name=110+kr+for+1+m%E5neds+adgang&mc_currency=DKK&item_number=1&residence_country=DK&receipt_id=0577-2025-4691-2507&handling_amount=0.00&transaction_subject=110+kr+for+1+m%E5neds+adgang&payment_gross=&shipping=0.00&ipn_track_id=e840470f52c14&
+[03/10/2013 2:12 PM] - SUCCESS :Validating prodcut 1
+[03/10/2013 2:12 PM] - SUCCESS :Connection to www.paypal.com successfuly completed.
+[03/10/2013 2:12 PM] - SUCCESS :IPN successfully verified.
+[03/10/2013 2:12 PM] - SUCCESS :Creating prodcut Information to send.
+[03/10/2013 2:12 PM] - SUCCESS :Product Email successfully sent to birgittemoldow@hotmail.com.
+[03/10/2013 2:12 PM] - SUCCESS :Notify Email successfully sent to hdsubscription@brogaard.com.
+[03/10/2013 2:12 PM] - SUCCESS :Paypal class finished.
+
+------------------------------------------------------------------
+
+[04/22/2013 10:41 AM] - SUCCESS :Paypal Class Intiated by 173.0.81.1
+[04/22/2013 10:41 AM] - SUCCESS :Post string : mc_gross=110.00&protection_eligibility=Ineligible&payer_id=AGA67RLZ5U4XU&tax=0.00&payment_date=03%3A41%3A03+Apr+22%2C+2013+PDT&payment_status=Completed&charset=windows-1252&first_name=Anne+Walther&mc_fee=6.34&notify_version=3.7&custom=&payer_status=unverified&business=paypal%40brogaard.com&quantity=1&verify_sign=ArgX1JoEl.LNTJ5nkTmgzkfLaDiVAdB3h2M2vdeRkGBbT6ARjlQjK-Ra&payer_email=awl%40ebiss.dk&txn_id=2NK66380WB252725P&payment_type=instant&last_name=Lange&receiver_email=paypal%40brogaard.com&payment_fee=&receiver_id=KJ8XAP5BBFL34&txn_type=web_accept&item_name=110+kr+for+1+m%E5neds+adgang&mc_currency=DKK&item_number=1&residence_country=DK&receipt_id=4052-9906-9516-0573&handling_amount=0.00&transaction_subject=110+kr+for+1+m%E5neds+adgang&payment_gross=&shipping=0.00&ipn_track_id=41fe1082c4610&
+[04/22/2013 10:41 AM] - SUCCESS :Validating prodcut 1
+[04/22/2013 10:41 AM] - SUCCESS :Connection to www.paypal.com successfuly completed.
+[04/22/2013 10:41 AM] - SUCCESS :IPN successfully verified.
+[04/22/2013 10:41 AM] - SUCCESS :Creating prodcut Information to send.
+[04/22/2013 10:41 AM] - SUCCESS :Product Email successfully sent to awl@ebiss.dk.
+[04/22/2013 10:41 AM] - SUCCESS :Notify Email successfully sent to hdsubscription@brogaard.com.
+[04/22/2013 10:41 AM] - SUCCESS :Paypal class finished.
+
+------------------------------------------------------------------
+
+[06/16/2013 1:20 PM] - SUCCESS :Paypal Class Intiated by 173.0.81.1
+[06/16/2013 1:20 PM] - SUCCESS :Post string : mc_gross=110.00&protection_eligibility=Ineligible&payer_id=598ZEJV3NVLFL&tax=0.00&payment_date=06%3A20%3A13+Jun+16%2C+2013+PDT&payment_status=Completed&charset=windows-1252&first_name=Anne+Marie+Broe&mc_fee=6.34&notify_version=3.7&custom=&payer_status=unverified&business=paypal%40brogaard.com&quantity=1&verify_sign=Ae-XDUZhrxwaCSsmGO9JpO33K7P1AZGzzpWYxzgkmNYTj9YJuGknv4GZ&payer_email=caja%40hansen.mail.dk&txn_id=8VX34170HT876031A&payment_type=instant&last_name=Christensen&receiver_email=paypal%40brogaard.com&payment_fee=&receiver_id=KJ8XAP5BBFL34&txn_type=web_accept&item_name=110+kr+for+1+m%E5neds+adgang&mc_currency=DKK&item_number=1&residence_country=DK&receipt_id=3576-0560-0496-6529&handling_amount=0.00&transaction_subject=110+kr+for+1+m%E5neds+adgang&payment_gross=&shipping=0.00&ipn_track_id=55e8dddb2c6a2&
+[06/16/2013 1:20 PM] - SUCCESS :Validating prodcut 1
+[06/16/2013 1:20 PM] - SUCCESS :Connection to www.paypal.com successfuly completed.
+[06/16/2013 1:20 PM] - SUCCESS :IPN successfully verified.
+[06/16/2013 1:20 PM] - SUCCESS :Creating prodcut Information to send.
+[06/16/2013 1:20 PM] - SUCCESS :Product Email successfully sent to caja@hansen.mail.dk.
+[06/16/2013 1:20 PM] - SUCCESS :Notify Email successfully sent to hdsubscription@brogaard.com.
+[06/16/2013 1:20 PM] - SUCCESS :Paypal class finished.
+
+------------------------------------------------------------------
+
+[08/07/2013 8:11 PM] - SUCCESS :Paypal Class Intiated by 173.0.81.1
+[08/07/2013 8:11 PM] - SUCCESS :Post string : mc_gross=110.00&protection_eligibility=Ineligible&payer_id=ZTACA5Q7APP3Q&tax=0.00&payment_date=13%3A11%3A43+Aug+07%2C+2013+PDT&payment_status=Completed&charset=windows-1252&first_name=Jonas&mc_fee=6.34&notify_version=3.7&custom=&payer_status=unverified&business=paypal%40brogaard.com&quantity=1&verify_sign=AzvmQ7gDMVwZoIFNmuDSlBPFuocqAlJBhhx7XkQzOtdWce15KwGxJgVo&payer_email=jfjordgaard%40gmail.com&txn_id=8WX60958NU955505F&payment_type=instant&last_name=Fjordg%E5rd&receiver_email=paypal%40brogaard.com&payment_fee=&receiver_id=KJ8XAP5BBFL34&txn_type=web_accept&item_name=110+kr+for+1+m%E5neds+adgang&mc_currency=DKK&item_number=1&residence_country=DK&receipt_id=2280-0485-8903-9482&handling_amount=0.00&transaction_subject=&payment_gross=&shipping=0.00&ipn_track_id=48073e44e5bd3&
+[08/07/2013 8:11 PM] - SUCCESS :Validating prodcut 1
+[08/07/2013 8:11 PM] - SUCCESS :Connection to www.paypal.com successfuly completed.
+[08/07/2013 8:11 PM] - SUCCESS :IPN successfully verified.
+[08/07/2013 8:11 PM] - SUCCESS :Creating prodcut Information to send.
+[08/07/2013 8:11 PM] - SUCCESS :Product Email successfully sent to jfjordgaard@gmail.com.
+[08/07/2013 8:11 PM] - SUCCESS :Notify Email successfully sent to hdsubscription@brogaard.com.
+[08/07/2013 8:11 PM] - SUCCESS :Paypal class finished.
+
+------------------------------------------------------------------
+
+[10/01/2013 10:41 AM] - SUCCESS :Paypal Class Intiated by 173.0.81.1
+[10/01/2013 10:41 AM] - SUCCESS :Post string : transaction_subject=&payment_date=03%3A41%3A37+Oct+01%2C+2013+PDT&txn_type=web_accept&last_name=Wied+Hatting&residence_country=DK&item_name=110+kr+for+1+m%E5neds+adgang&payment_gross=&mc_currency=DKK&business=paypal%40brogaard.com&payment_type=instant&protection_eligibility=Ineligible&verify_sign=AiPC9BjkCyDFQXbSkoZcgqH3hpacAqA.UWxpXLojP8jCodFPC6MqJEd0&payer_status=verified&tax=0.00&payer_email=adamhatting%40gmail.com&txn_id=7ES0563728800090W&quantity=1&receiver_email=paypal%40brogaard.com&first_name=Adam&payer_id=KJUMJC2V4TYPA&receiver_id=KJ8XAP5BBFL34&item_number=1&handling_amount=0.00&payment_status=Completed&payment_fee=&mc_fee=6.34&shipping=0.00&mc_gross=110.00&custom=&charset=windows-1252&notify_version=3.7&ipn_track_id=8bcabece1f22f&
+[10/01/2013 10:41 AM] - SUCCESS :Validating prodcut 1
+[10/01/2013 10:41 AM] - SUCCESS :Connection to www.paypal.com successfuly completed.
+[10/01/2013 10:41 AM] - SUCCESS :IPN successfully verified.
+[10/01/2013 10:41 AM] - SUCCESS :Creating prodcut Information to send.
+[10/01/2013 10:41 AM] - SUCCESS :Product Email successfully sent to adamhatting@gmail.com.
+[10/01/2013 10:41 AM] - SUCCESS :Notify Email successfully sent to hdsubscription@brogaard.com.
+[10/01/2013 10:41 AM] - SUCCESS :Paypal class finished.
+
+------------------------------------------------------------------
+
+[12/09/2013 7:48 AM] - SUCCESS :Paypal Class Intiated by 173.0.81.1
+[12/09/2013 7:48 AM] - SUCCESS :Post string : mc_gross=110.00&protection_eligibility=Ineligible&payer_id=BJ2HJC4M6QW5G&tax=0.00&payment_date=23%3A48%3A02+Dec+08%2C+2013+PST&payment_status=Completed&charset=windows-1252&first_name=Anne&mc_fee=6.34&notify_version=3.7&custom=&payer_status=unverified&business=paypal%40brogaard.com&quantity=1&verify_sign=Any4um6QRKTYyoX.7luqMWLxU.iNA8PurClyy.W.SVCKt9bWZx7Kh7ih&payer_email=awl%40ebiss.dk&txn_id=69X2081024721641U&payment_type=instant&last_name=Walther&receiver_email=paypal%40brogaard.com&payment_fee=&receiver_id=KJ8XAP5BBFL34&txn_type=web_accept&item_name=110+kr+for+1+m%E5neds+adgang&mc_currency=DKK&item_number=1&residence_country=DK&receipt_id=2545-3015-5624-5876&handling_amount=0.00&transaction_subject=&payment_gross=&shipping=0.00&ipn_track_id=3ddf5a611dea0&
+[12/09/2013 7:48 AM] - SUCCESS :Validating prodcut 1
+[12/09/2013 7:48 AM] - SUCCESS :Connection to www.paypal.com successfuly completed.
+[12/09/2013 7:48 AM] - SUCCESS :IPN successfully verified.
+[12/09/2013 7:48 AM] - SUCCESS :Creating prodcut Information to send.
+[12/09/2013 7:48 AM] - SUCCESS :Product Email successfully sent to awl@ebiss.dk.
+[12/09/2013 7:48 AM] - SUCCESS :Notify Email successfully sent to hdsubscription@brogaard.com.
+[12/09/2013 7:48 AM] - SUCCESS :Paypal class finished.
+
+------------------------------------------------------------------
+
+[05/08/2014 8:32 AM] - SUCCESS :Paypal Class Intiated by 173.0.81.1
+[05/08/2014 8:32 AM] - SUCCESS :Post string : transaction_subject=&payment_date=01%3A32%3A30+May+08%2C+2014+PDT&txn_type=web_accept&last_name=klinker&residence_country=FR&item_name=110+kr+for+1+m%E5neds+adgang&payment_gross=&mc_currency=DKK&business=paypal%40brogaard.com&payment_type=instant&protection_eligibility=Ineligible&verify_sign=AjM.VgwCPsb52IEXkw3HpFN1JH34AQS40x7jliQV5b-eUSvk7Y.CSm2b&payer_status=unverified&tax=0.00&payer_email=marilli.klinker%40orange.fr&txn_id=0CH61928AA5666449&quantity=1&receiver_email=paypal%40brogaard.com&first_name=marilli&payer_id=YMA6K8K9JV39G&receiver_id=KJ8XAP5BBFL34&item_number=1&handling_amount=0.00&payment_status=Completed&payment_fee=&mc_fee=6.89&shipping=0.00&mc_gross=110.00&custom=&charset=windows-1252&notify_version=3.8&ipn_track_id=6fe92b74f1788&
+[05/08/2014 8:32 AM] - SUCCESS :Validating prodcut 1
+[05/08/2014 8:32 AM] - SUCCESS :Connection to www.paypal.com successfuly completed.
+[05/08/2014 8:32 AM] - SUCCESS :IPN successfully verified.
+[05/08/2014 8:32 AM] - SUCCESS :Creating prodcut Information to send.
+[05/08/2014 8:32 AM] - SUCCESS :Product Email successfully sent to marilli.klinker@orange.fr.
+[05/08/2014 8:32 AM] - SUCCESS :Notify Email successfully sent to hdsubscription@brogaard.com.
+[05/08/2014 8:32 AM] - SUCCESS :Paypal class finished.
+
+------------------------------------------------------------------
+
+[06/12/2014 7:22 AM] - SUCCESS :Paypal Class Intiated by 173.0.81.1
+[06/12/2014 7:22 AM] - SUCCESS :Post string : mc_gross=110.00&protection_eligibility=Ineligible&payer_id=BTDUAEH74RDHG&tax=0.00&payment_date=00%3A22%3A47+Jun+12%2C+2014+PDT&payment_status=Completed&charset=windows-1252&first_name=Frans&mc_fee=6.34&notify_version=3.8&custom=&payer_status=unverified&business=paypal%40brogaard.com&quantity=1&verify_sign=AYh-XTRUJrmmCvvrw0pwKeXAiMWPAsC0t3pRc8DdoMDO0EUNEUu3thIV&payer_email=annette%40wennich.dk&txn_id=40H68953357155945&payment_type=instant&last_name=Wennich&receiver_email=paypal%40brogaard.com&payment_fee=&receiver_id=KJ8XAP5BBFL34&txn_type=web_accept&item_name=110+kr+for+1+m%E5neds+adgang&mc_currency=DKK&item_number=1&residence_country=DK&receipt_id=1631-3746-8811-6551&handling_amount=0.00&transaction_subject=&payment_gross=&shipping=0.00&ipn_track_id=bf723718b57e1&
+[06/12/2014 7:22 AM] - SUCCESS :Validating prodcut 1
+[06/12/2014 7:22 AM] - SUCCESS :Connection to www.paypal.com successfuly completed.
+[06/12/2014 7:22 AM] - SUCCESS :IPN successfully verified.
+[06/12/2014 7:22 AM] - SUCCESS :Creating prodcut Information to send.
+[06/12/2014 7:22 AM] - SUCCESS :Product Email successfully sent to annette@wennich.dk.
+[06/12/2014 7:22 AM] - SUCCESS :Notify Email successfully sent to hdsubscription@brogaard.com.
+[06/12/2014 7:22 AM] - SUCCESS :Paypal class finished.
+
+------------------------------------------------------------------
+
+[06/27/2014 5:47 PM] - SUCCESS :Paypal Class Intiated by 173.0.81.1
+[06/27/2014 5:47 PM] - SUCCESS :Post string : mc_gross=110.00&protection_eligibility=Ineligible&payer_id=QRG64CAKR8XUQ&tax=0.00&payment_date=10%3A47%3A50+Jun+27%2C+2014+PDT&payment_status=Completed&charset=windows-1252&first_name=Anders+Mayland&mc_fee=6.34&notify_version=3.8&custom=&payer_status=unverified&business=paypal%40brogaard.com&quantity=1&verify_sign=AVY91L2EB.4WNAi3K5zWUeZr11K0ABiEyK-bThxoFmuU-ulhK7iJeAT1&payer_email=anders.mayland.larsen%40stofanet.dk&txn_id=2C10852637140972E&payment_type=instant&last_name=Larsen&receiver_email=paypal%40brogaard.com&payment_fee=&receiver_id=KJ8XAP5BBFL34&txn_type=web_accept&item_name=110+kr+for+1+m%E5neds+adgang&mc_currency=DKK&item_number=1&residence_country=DK&receipt_id=2758-2324-8947-8213&handling_amount=0.00&transaction_subject=&payment_gross=&shipping=0.00&ipn_track_id=b670550c8ca10&
+[06/27/2014 5:47 PM] - SUCCESS :Validating prodcut 1
+[06/27/2014 5:47 PM] - SUCCESS :Connection to www.paypal.com successfuly completed.
+[06/27/2014 5:47 PM] - SUCCESS :IPN successfully verified.
+[06/27/2014 5:47 PM] - SUCCESS :Creating prodcut Information to send.
+[06/27/2014 5:47 PM] - SUCCESS :Product Email successfully sent to anders.mayland.larsen@stofanet.dk.
+[06/27/2014 5:47 PM] - SUCCESS :Notify Email successfully sent to hdsubscription@brogaard.com.
+[06/27/2014 5:47 PM] - SUCCESS :Paypal class finished.
+
+------------------------------------------------------------------
+
+[12/01/2014 10:33 AM] - SUCCESS :Paypal Class Intiated by 173.0.81.1
+[12/01/2014 10:33 AM] - SUCCESS :Post string : mc_gross=110.00&protection_eligibility=Ineligible&payer_id=SP7HMQYY9XAXL&tax=0.00&payment_date=02%3A33%3A16+Dec+01%2C+2014+PST&payment_status=Completed&charset=windows-1252&first_name=Birgitte&mc_fee=6.34&notify_version=3.8&custom=&payer_status=unverified&business=paypal%40brogaard.com&quantity=1&verify_sign=Aq7hC8ekMDnsbuvs7DvBLTNzTeSsA3NhX49JYU7.rzLMwuLs7dxmmk19&payer_email=birgittemoldow%40hotmail.com&txn_id=9LE5915028956003L&payment_type=instant&last_name=Moldow&receiver_email=paypal%40brogaard.com&payment_fee=&receiver_id=KJ8XAP5BBFL34&txn_type=web_accept&item_name=110+kr+for+1+m%E5neds+adgang&mc_currency=DKK&item_number=1&residence_country=DK&receipt_id=5527-6867-7300-3537&handling_amount=0.00&transaction_subject=&payment_gross=&shipping=0.00&ipn_track_id=34c5df214ec71&
+[12/01/2014 10:33 AM] - SUCCESS :Validating prodcut 1
+[12/01/2014 10:33 AM] - SUCCESS :Connection to www.paypal.com successfuly completed.
+[12/01/2014 10:33 AM] - SUCCESS :IPN successfully verified.
+[12/01/2014 10:33 AM] - SUCCESS :Creating prodcut Information to send.
+[12/01/2014 10:33 AM] - SUCCESS :Product Email successfully sent to birgittemoldow@hotmail.com.
+[12/01/2014 10:33 AM] - SUCCESS :Notify Email successfully sent to hdsubscription@brogaard.com.
+[12/01/2014 10:33 AM] - SUCCESS :Paypal class finished.
+
+------------------------------------------------------------------
+
+[01/18/2015 4:02 PM] - SUCCESS :Paypal Class Intiated by 173.0.81.1
+[01/18/2015 4:02 PM] - SUCCESS :Post string : mc_gross=110.00&protection_eligibility=Ineligible&payer_id=SP7HMQYY9XAXL&tax=0.00&payment_date=08%3A02%3A25+Jan+18%2C+2015+PST&payment_status=Completed&charset=windows-1252&first_name=Birgitte&mc_fee=6.34&notify_version=3.8&custom=&payer_status=unverified&business=paypal%40brogaard.com&quantity=1&verify_sign=AYqeQCvc.g3pqY-Qe8rdOVaxlF5TAVdBieJQTEYrRnExnDf69QFEGhfJ&payer_email=birgittemoldow%40hotmail.com&txn_id=1NE49846N45708532&payment_type=instant&last_name=Moldow&receiver_email=paypal%40brogaard.com&payment_fee=&receiver_id=KJ8XAP5BBFL34&txn_type=web_accept&item_name=110+kr+for+1+m%E5neds+adgang&mc_currency=DKK&item_number=1&residence_country=DK&receipt_id=0421-7908-7659-7599&handling_amount=0.00&transaction_subject=&payment_gross=&shipping=0.00&ipn_track_id=8163a6377ccce&
+[01/18/2015 4:02 PM] - SUCCESS :Validating prodcut 1
+[01/18/2015 4:02 PM] - SUCCESS :Connection to www.paypal.com successfuly completed.
+[01/18/2015 4:02 PM] - SUCCESS :IPN successfully verified.
+[01/18/2015 4:02 PM] - SUCCESS :Creating prodcut Information to send.
+[01/18/2015 4:02 PM] - SUCCESS :Product Email successfully sent to birgittemoldow@hotmail.com.
+[01/18/2015 4:02 PM] - SUCCESS :Notify Email successfully sent to hdsubscription@brogaard.com.
+[01/18/2015 4:02 PM] - SUCCESS :Paypal class finished.
+
+------------------------------------------------------------------
+
+[01/18/2015 4:15 PM] - SUCCESS :Paypal Class Intiated by 173.0.81.1
+[01/18/2015 4:15 PM] - SUCCESS :Post string : mc_gross=110.00&protection_eligibility=Ineligible&payer_id=SP7HMQYY9XAXL&tax=0.00&payment_date=08%3A15%3A15+Jan+18%2C+2015+PST&payment_status=Completed&charset=windows-1252&first_name=Birgitte&mc_fee=6.34&notify_version=3.8&custom=&payer_status=unverified&business=paypal%40brogaard.com&quantity=1&verify_sign=AFCdKbogKIvpFpoHFfnhc3R..UKPAof5WD8K4j0Yv5Sw2XblqtJYe.7M&payer_email=birgittemoldow%40hotmail.com&txn_id=5YE93305EH750673B&payment_type=instant&last_name=Moldow&receiver_email=paypal%40brogaard.com&payment_fee=&receiver_id=KJ8XAP5BBFL34&txn_type=web_accept&item_name=110+kr+for+1+m%E5neds+adgang&mc_currency=DKK&item_number=1&residence_country=DK&receipt_id=3555-4376-4336-4653&handling_amount=0.00&transaction_subject=&payment_gross=&shipping=0.00&ipn_track_id=daad84448df4b&
+[01/18/2015 4:15 PM] - SUCCESS :Validating prodcut 1
+[01/18/2015 4:15 PM] - SUCCESS :Connection to www.paypal.com successfuly completed.
+[01/18/2015 4:15 PM] - SUCCESS :IPN successfully verified.
+[01/18/2015 4:15 PM] - SUCCESS :Creating prodcut Information to send.
+[01/18/2015 4:15 PM] - SUCCESS :Product Email successfully sent to birgittemoldow@hotmail.com.
+[01/18/2015 4:15 PM] - SUCCESS :Notify Email successfully sent to hdsubscription@brogaard.com.
+[01/18/2015 4:15 PM] - SUCCESS :Paypal class finished.
+
+------------------------------------------------------------------
+
+[02/28/2015 5:51 PM] - SUCCESS :Paypal Class Intiated by 173.0.81.1
+[02/28/2015 5:51 PM] - SUCCESS :Post string : transaction_subject=&payment_date=09%3A51%3A17+Feb+28%2C+2015+PST&txn_type=web_accept&last_name=Nobel&residence_country=DK&item_name=110+kr+for+1+m%E5neds+adgang&payment_gross=&mc_currency=DKK&business=paypal%40brogaard.com&payment_type=instant&protection_eligibility=Ineligible&verify_sign=AMFYqlfW6W6.byd8PmcQixNfQzuZA4blGfr3-jBY5snaJgcqb7EmRlvI&payer_status=unverified&tax=0.00&payer_email=axelcwnobel%40gmail.com&txn_id=4FP41713EV827560T&quantity=1&receiver_email=paypal%40brogaard.com&first_name=Axel&payer_id=L5VFPRRFZ4ZKW&receiver_id=KJ8XAP5BBFL34&item_number=1&handling_amount=0.00&payment_status=Completed&payment_fee=&mc_fee=6.34&shipping=0.00&mc_gross=110.00&custom=&charset=windows-1252&notify_version=3.8&ipn_track_id=599e01169811d&
+[02/28/2015 5:51 PM] - SUCCESS :Validating prodcut 1
+[02/28/2015 5:51 PM] - SUCCESS :Connection to www.paypal.com successfuly completed.
+[02/28/2015 5:51 PM] - SUCCESS :IPN successfully verified.
+[02/28/2015 5:51 PM] - SUCCESS :Creating prodcut Information to send.
+[02/28/2015 5:51 PM] - SUCCESS :Product Email successfully sent to axelcwnobel@gmail.com.
+[02/28/2015 5:51 PM] - SUCCESS :Notify Email successfully sent to hdsubscription@brogaard.com.
+[02/28/2015 5:51 PM] - SUCCESS :Paypal class finished.
+
+------------------------------------------------------------------
+
+[07/10/2015 8:22 PM] - SUCCESS :Paypal Class Intiated by 173.0.81.1
+[07/10/2015 8:22 PM] - SUCCESS :Post string : transaction_subject=110+kr+for+1+m%E5neds+adgang&payment_date=13%3A21%3A57+Jul+10%2C+2015+PDT&txn_type=web_accept&last_name=M%F8ller&residence_country=DK&item_name=110+kr+for+1+m%E5neds+adgang&payment_gross=&mc_currency=DKK&business=paypal%40brogaard.com&payment_type=instant&protection_eligibility=Ineligible&verify_sign=Au1Mgu7eAXYpudwKCguvhQxkYUiyAwd.YlVA8CuylagpSvSY4xctzUZF&payer_status=unverified&tax=0.00&payer_email=14mimm%40herlufsholm.dk&txn_id=1BX43762WP095211P&quantity=1&receiver_email=paypal%40brogaard.com&first_name=Mie&payer_id=J6B2LJ7WFNKGS&receiver_id=KJ8XAP5BBFL34&item_number=1&handling_amount=0.00&payment_status=Completed&payment_fee=&mc_fee=6.34&shipping=0.00&mc_gross=110.00&custom=&charset=windows-1252&notify_version=3.8&ipn_track_id=620913e9e6702&
+[07/10/2015 8:22 PM] - SUCCESS :Validating prodcut 1
+[07/10/2015 8:22 PM] - SUCCESS :Connection to www.paypal.com successfuly completed.
+[07/10/2015 8:22 PM] - SUCCESS :IPN successfully verified.
+[07/10/2015 8:22 PM] - SUCCESS :Creating prodcut Information to send.
+[07/10/2015 8:22 PM] - SUCCESS :Product Email successfully sent to 14mimm@herlufsholm.dk.
+[07/10/2015 8:22 PM] - SUCCESS :Notify Email successfully sent to hdsubscription@brogaard.com.
+[07/10/2015 8:22 PM] - SUCCESS :Paypal class finished.
+
+------------------------------------------------------------------
+
+[12/16/2015 5:54 PM] - SUCCESS :Paypal Class Intiated by 173.0.81.1
+[12/16/2015 5:54 PM] - SUCCESS :Post string : transaction_subject=&payment_date=09%3A53%3A52+Dec+16%2C+2015+PST&txn_type=web_accept&last_name=christensen&residence_country=DK&item_name=110+kr+for+1+m%E5neds+adgang&payment_gross=&mc_currency=DKK&business=paypal%40brogaard.com&payment_type=instant&protection_eligibility=Ineligible&verify_sign=AnSd96nJmThIpsfIu4fviZ6NoUlcATix8riqkjuclvZra.Pvq-qBNsf.&payer_status=verified&tax=0.00&payer_email=jbc%40j-b-c.eu&txn_id=8E929787ST0515038&quantity=1&receiver_email=paypal%40brogaard.com&first_name=jorgen&payer_id=Y8CKNJZFDSBQ2&receiver_id=KJ8XAP5BBFL34&item_number=1&handling_amount=0.00&payment_status=Completed&payment_fee=&mc_fee=6.34&shipping=0.00&mc_gross=110.00&custom=&charset=windows-1252&notify_version=3.8&ipn_track_id=333f92c0822c6&
+[12/16/2015 5:54 PM] - SUCCESS :Validating prodcut 1
+[12/16/2015 5:54 PM] - SUCCESS :Connection to www.paypal.com successfuly completed.
+[12/16/2015 5:54 PM] - SUCCESS :IPN successfully verified.
+[12/16/2015 5:54 PM] - SUCCESS :Creating prodcut Information to send.
+[12/16/2015 5:54 PM] - SUCCESS :Product Email successfully sent to jbc@j-b-c.eu.
+[12/16/2015 5:54 PM] - SUCCESS :Notify Email successfully sent to hdsubscription@brogaard.com.
+[12/16/2015 5:54 PM] - SUCCESS :Paypal class finished.
+
+------------------------------------------------------------------
+
+[01/23/2016 11:17 AM] - SUCCESS :Paypal Class Intiated by 173.0.81.1
+[01/23/2016 11:17 AM] - SUCCESS :Post string : mc_gross=110.00&protection_eligibility=Ineligible&payer_id=ATV98GXEMCTKA&tax=0.00&payment_date=03%3A17%3A14+Jan+23%2C+2016+PST&payment_status=Completed&charset=windows-1252&first_name=Max+Ulrich&mc_fee=6.34&notify_version=3.8&custom=&payer_status=unverified&business=paypal%40brogaard.com&quantity=1&verify_sign=AbzlMQfnGCW1kgs7W9U77Rx7TroaAhWHn8DufooH8SfYVKK65IazOqHu&payer_email=max.klinker%40wanadoo.fr&memo=Tak+for+fine+fotos&txn_id=9MV20308KJ746914C&payment_type=instant&last_name=Klinker&receiver_email=paypal%40brogaard.com&payment_fee=&receiver_id=KJ8XAP5BBFL34&txn_type=web_accept&item_name=110+kr+for+1+m%E5neds+adgang&mc_currency=DKK&item_number=1&residence_country=DK&receipt_id=0567-4994-8106-9325&handling_amount=0.00&transaction_subject=&payment_gross=&shipping=0.00&ipn_track_id=6245c44d3db5a&
+[01/23/2016 11:17 AM] - SUCCESS :Validating prodcut 1
+[01/23/2016 11:17 AM] - SUCCESS :Connection to www.paypal.com successfuly completed.
+[01/23/2016 11:17 AM] - SUCCESS :IPN successfully verified.
+[01/23/2016 11:17 AM] - SUCCESS :Creating prodcut Information to send.
+[01/23/2016 11:17 AM] - SUCCESS :Product Email successfully sent to max.klinker@wanadoo.fr.
+[01/23/2016 11:17 AM] - SUCCESS :Notify Email successfully sent to hdsubscription@brogaard.com.
+[01/23/2016 11:17 AM] - SUCCESS :Paypal class finished.
+
+------------------------------------------------------------------
+
+[05/17/2016 5:33 PM] - SUCCESS :Paypal Class Intiated by 173.0.81.1
+[05/17/2016 5:33 PM] - SUCCESS :Post string : transaction_subject=&payment_date=10%3A33%3A06+May+17%2C+2016+PDT&txn_type=web_accept&last_name=klinker&residence_country=FR&item_name=110+kr+for+1+m%E5neds+adgang&payment_gross=&mc_currency=DKK&business=paypal%40brogaard.com&payment_type=instant&protection_eligibility=Ineligible&verify_sign=As7YjUf-EtwWTklniO1RIaVMU-GLAw3IipPjwlunwyRWi8H6YrcLLOYC&payer_status=verified&tax=0.00&payer_email=marilli.klinker%40orange.fr&txn_id=7NG295248W402971S&quantity=1&receiver_email=paypal%40brogaard.com&first_name=marilli&payer_id=YMA6K8K9JV39G&receiver_id=KJ8XAP5BBFL34&item_number=1&handling_amount=0.00&payment_status=Completed&payment_fee=&mc_fee=6.89&shipping=0.00&mc_gross=110.00&custom=&charset=windows-1252&notify_version=3.8&ipn_track_id=bd2aeeb88791c&
+[05/17/2016 5:33 PM] - SUCCESS :Validating prodcut 1
+[05/17/2016 5:33 PM] - SUCCESS :Connection to www.paypal.com successfuly completed.
+[05/17/2016 5:33 PM] - SUCCESS :IPN successfully verified.
+[05/17/2016 5:33 PM] - SUCCESS :Creating prodcut Information to send.
+[05/17/2016 5:33 PM] - SUCCESS :Product Email successfully sent to marilli.klinker@orange.fr.
+[05/17/2016 5:33 PM] - SUCCESS :Notify Email successfully sent to hdsubscription@brogaard.com.
+[05/17/2016 5:33 PM] - SUCCESS :Paypal class finished.
+
+------------------------------------------------------------------
+
+[07/08/2016 7:16 AM] - SUCCESS :Paypal Class Intiated by 173.0.81.1
+[07/08/2016 7:16 AM] - SUCCESS :Post string : mc_gross=110.00&protection_eligibility=Ineligible&payer_id=PF2SEJRLU3NAG&tax=0.00&payment_date=00%3A15%3A57+Jul+08%2C+2016+PDT&payment_status=Completed&charset=windows-1252&first_name=Trine&mc_fee=6.34&notify_version=3.8&custom=&payer_status=unverified&business=paypal%40brogaard.com&quantity=1&verify_sign=ATZljs7QP9ZQC1DdD0CDyq6K4xrxAVcs7W9nmCw82P7Wloq4EnCJ9Mzz&payer_email=trine.caspersen%40jubii.dk&txn_id=3V66458059950960K&payment_type=instant&last_name=Bjerremand&receiver_email=paypal%40brogaard.com&payment_fee=&receiver_id=KJ8XAP5BBFL34&txn_type=web_accept&item_name=110+kr+for+1+m%E5neds+adgang&mc_currency=DKK&item_number=1&residence_country=DK&receipt_id=0699-4182-2554-4097&handling_amount=0.00&transaction_subject=&payment_gross=&shipping=0.00&ipn_track_id=62b93b8aa5c57&
+[07/08/2016 7:16 AM] - SUCCESS :Validating prodcut 1
+[07/08/2016 7:16 AM] - SUCCESS :Connection to www.paypal.com successfuly completed.
+[07/08/2016 7:16 AM] - SUCCESS :IPN successfully verified.
+[07/08/2016 7:16 AM] - SUCCESS :Creating prodcut Information to send.
+[07/08/2016 7:16 AM] - SUCCESS :Product Email successfully sent to trine.caspersen@jubii.dk.
+[07/08/2016 7:16 AM] - SUCCESS :Notify Email successfully sent to hdsubscription@brogaard.com.
+[07/08/2016 7:16 AM] - SUCCESS :Paypal class finished.
+
+------------------------------------------------------------------
+
+[07/18/2016 10:41 AM] - SUCCESS :Paypal Class Intiated by 173.0.81.1
+[07/18/2016 10:41 AM] - SUCCESS :Post string : transaction_subject=&payment_date=03%3A41%3A22+Jul+18%2C+2016+PDT&txn_type=web_accept&last_name=Hallum&residence_country=DK&item_name=110+kr+for+1+m%E5neds+adgang&payment_gross=&mc_currency=DKK&business=paypal%40brogaard.com&payment_type=instant&protection_eligibility=Ineligible&verify_sign=AdkuYn3XEjHH-3KOoQu2LfjEXTYbA3gldHSqcotkmOhiUz1uJRc8NGOw&payer_status=verified&payer_email=lonehallum%40hotmail.com&txn_id=3XE892191K338071N&quantity=1&receiver_email=paypal%40brogaard.com&first_name=Karin&payer_id=UDS6TVNHGMEGL&receiver_id=KJ8XAP5BBFL34&item_number=1&payment_status=Completed&payment_fee=&mc_fee=6.34&mc_gross=110.00&custom=&charset=windows-1252&notify_version=3.8&ipn_track_id=e689d16752913&
+[07/18/2016 10:41 AM] - SUCCESS :Validating prodcut 1
+[07/18/2016 10:41 AM] - SUCCESS :Connection to www.paypal.com successfuly completed.
+[07/18/2016 10:41 AM] - SUCCESS :IPN successfully verified.
+[07/18/2016 10:41 AM] - SUCCESS :Creating prodcut Information to send.
+[07/18/2016 10:41 AM] - SUCCESS :Product Email successfully sent to lonehallum@hotmail.com.
+[07/18/2016 10:41 AM] - SUCCESS :Notify Email successfully sent to hdsubscription@brogaard.com.
+[07/18/2016 10:41 AM] - SUCCESS :Paypal class finished.
+
+------------------------------------------------------------------
+
+[08/17/2016 4:42 PM] - SUCCESS :Paypal Class Intiated by 173.0.81.1
+[08/17/2016 4:42 PM] - SUCCESS :Post string : transaction_subject=&payment_date=09%3A41%3A45+Aug+17%2C+2016+PDT&txn_type=web_accept&last_name=klinker&residence_country=FR&item_name=110+kr+for+1+m%E5neds+adgang&payment_gross=&mc_currency=DKK&business=paypal%40brogaard.com&payment_type=instant&protection_eligibility=Ineligible&verify_sign=A2MYPTIClXoPUL1bB5gQ.roKs6JqAgNmnlUiZ-R7BMP-0FMDCaKRC5Qn&payer_status=verified&payer_email=marilli.klinker%40orange.fr&txn_id=6YM78743KJ544483C&quantity=1&receiver_email=paypal%40brogaard.com&first_name=marilli&payer_id=YMA6K8K9JV39G&receiver_id=KJ8XAP5BBFL34&item_number=1&payment_status=Completed&payment_fee=&mc_fee=6.89&mc_gross=110.00&custom=&charset=windows-1252&notify_version=3.8&ipn_track_id=5f338682dd61f&
+[08/17/2016 4:42 PM] - SUCCESS :Validating prodcut 1
+[08/17/2016 4:42 PM] - SUCCESS :Connection to www.paypal.com successfuly completed.
+[08/17/2016 4:42 PM] - SUCCESS :IPN successfully verified.
+[08/17/2016 4:42 PM] - SUCCESS :Creating prodcut Information to send.
+[08/17/2016 4:42 PM] - SUCCESS :Product Email successfully sent to marilli.klinker@orange.fr.
+[08/17/2016 4:42 PM] - SUCCESS :Notify Email successfully sent to hdsubscription@brogaard.com.
+[08/17/2016 4:42 PM] - SUCCESS :Paypal class finished.
+
+------------------------------------------------------------------
+
+[08/21/2016 2:21 PM] - SUCCESS :Paypal Class Intiated by 173.0.81.1
+[08/21/2016 2:21 PM] - SUCCESS :Post string : mc_gross=110.00&protection_eligibility=Ineligible&payer_id=UVLRYKWAD3BDE&tax=0.00&payment_date=07%3A20%3A48+Aug+21%2C+2016+PDT&payment_status=Completed&charset=windows-1252&first_name=Helena+Bj%F8rn&mc_fee=6.34&notify_version=3.8&custom=&payer_status=unverified&business=paypal%40brogaard.com&quantity=1&verify_sign=Aga98GoaeDw2lHCZcUIvCth67w1cAU-HFSt.sqM-ky9czeAlCHf6ghZi&payer_email=christensenhelenaxo%40gmail.com&txn_id=90J74115V17754847&payment_type=instant&last_name=Christensen&receiver_email=paypal%40brogaard.com&payment_fee=&receiver_id=KJ8XAP5BBFL34&txn_type=web_accept&item_name=110+kr+for+1+m%E5neds+adgang&mc_currency=DKK&item_number=1&residence_country=DK&receipt_id=2777-4806-1441-9092&handling_amount=0.00&transaction_subject=&payment_gross=&shipping=0.00&ipn_track_id=91d8e59ed8f47&
+[08/21/2016 2:21 PM] - SUCCESS :Validating prodcut 1
+[08/21/2016 2:21 PM] - SUCCESS :Connection to www.paypal.com successfuly completed.
+[08/21/2016 2:21 PM] - SUCCESS :IPN successfully verified.
+[08/21/2016 2:21 PM] - SUCCESS :Creating prodcut Information to send.
+[08/21/2016 2:21 PM] - SUCCESS :Product Email successfully sent to christensenhelenaxo@gmail.com.
+[08/21/2016 2:21 PM] - SUCCESS :Notify Email successfully sent to hdsubscription@brogaard.com.
+[08/21/2016 2:21 PM] - SUCCESS :Paypal class finished.
+
+------------------------------------------------------------------
+
+[10/09/2016 1:01 PM] - SUCCESS :Paypal Class Intiated by 173.0.81.1
+[10/09/2016 1:01 PM] - SUCCESS :Post string : transaction_subject=&payment_date=06%3A01%3A45+Oct+09%2C+2016+PDT&txn_type=web_accept&last_name=Andersen&receipt_id=1148-7063-5003-9866&residence_country=DK&item_name=110+kr+for+1+m%E5neds+adgang&payment_gross=&mc_currency=DKK&business=paypal%40brogaard.com&payment_type=instant&protection_eligibility=Ineligible&verify_sign=AV5g.RRvzcNMaeOO73JJ-F3fudM2ABRapx.ENFMpAFXQx.8N713WtxZ7&payer_status=unverified&payer_email=ac%40denform.dk&txn_id=4B043683TH840373U&quantity=1&receiver_email=paypal%40brogaard.com&first_name=Ann+C.+Br%F8gger&payer_id=2PYN255KWXMXG&receiver_id=KJ8XAP5BBFL34&item_number=1&payment_status=Completed&payment_fee=&mc_fee=6.34&mc_gross=110.00&custom=&charset=windows-1252&notify_version=3.8&ipn_track_id=c8863d219cf8d&
+[10/09/2016 1:01 PM] - SUCCESS :Validating prodcut 1
+[10/09/2016 1:01 PM] - SUCCESS :Connection to www.paypal.com successfuly completed.
+[10/09/2016 1:01 PM] - SUCCESS :IPN successfully verified.
+[10/09/2016 1:01 PM] - SUCCESS :Creating prodcut Information to send.
+[10/09/2016 1:01 PM] - SUCCESS :Product Email successfully sent to ac@denform.dk.
+[10/09/2016 1:01 PM] - SUCCESS :Notify Email successfully sent to hdsubscription@brogaard.com.
+[10/09/2016 1:01 PM] - SUCCESS :Paypal class finished.
+
+------------------------------------------------------------------
+
+[02/16/2017 4:00 PM] - SUCCESS :Paypal Class Intiated by 173.0.81.1
+[02/16/2017 4:00 PM] - SUCCESS :Post string : transaction_subject=&payment_date=08%3A00%3A46+Feb+16%2C+2017+PST&txn_type=web_accept&last_name=M%F8ller&residence_country=DK&item_name=110+kr+for+1+m%E5neds+adgang&payment_gross=&mc_currency=DKK&business=paypal%40brogaard.com&payment_type=instant&protection_eligibility=Ineligible&verify_sign=AM8eSy-369zGZhyburmqKvKw2IgEAHb6tgnDeYcIqYx0IaHgkxpSNRk9&payer_status=unverified&payer_email=14mimm%40herlufsholm.dk&txn_id=6ST192783V011005C&quantity=1&receiver_email=paypal%40brogaard.com&first_name=Mie&payer_id=J6B2LJ7WFNKGS&receiver_id=KJ8XAP5BBFL34&item_number=1&payment_status=Completed&payment_fee=&mc_fee=6.34&mc_gross=110.00&custom=&charset=windows-1252&notify_version=3.8&ipn_track_id=4a1fd0e353f8&
+[02/16/2017 4:00 PM] - SUCCESS :Validating prodcut 1
+[02/16/2017 4:01 PM] - SUCCESS :Connection to www.paypal.com successfuly completed.
+[02/16/2017 4:01 PM] - SUCCESS :IPN successfully verified.
+[02/16/2017 4:01 PM] - SUCCESS :Creating prodcut Information to send.
+[02/16/2017 4:01 PM] - SUCCESS :Product Email successfully sent to 14mimm@herlufsholm.dk.
+[02/16/2017 4:01 PM] - SUCCESS :Notify Email successfully sent to hdsubscription@brogaard.com.
+[02/16/2017 4:01 PM] - SUCCESS :Paypal class finished.
+
+------------------------------------------------------------------
+
+[03/12/2017 12:56 PM] - SUCCESS :Paypal Class Intiated by 173.0.81.1
+[03/12/2017 12:56 PM] - SUCCESS :Post string : transaction_subject=&payment_date=05%3A55%3A56+Mar+12%2C+2017+PDT&txn_type=web_accept&last_name=Aaside&residence_country=DK&item_name=110+kr+for+1+m%E5neds+adgang&payment_gross=&mc_currency=DKK&business=paypal%40brogaard.com&payment_type=instant&protection_eligibility=Ineligible&verify_sign=AQP3jQsZ5Rm.q2HXFg3tYOEB-.DMAmBsxzln-CBvfWc9oT5X-1aRjmjU&payer_status=verified&payer_email=ctaaside%40gmail.com&txn_id=7PH482630A2758838&quantity=1&receiver_email=paypal%40brogaard.com&first_name=Claes&payer_id=TTJ6HXS996QHE&receiver_id=KJ8XAP5BBFL34&item_number=1&payment_status=Completed&payment_fee=&mc_fee=6.34&mc_gross=110.00&custom=&charset=windows-1252&notify_version=3.8&ipn_track_id=35478385e987b&
+[03/12/2017 12:56 PM] - SUCCESS :Validating prodcut 1
+[03/12/2017 12:56 PM] - SUCCESS :Connection to www.paypal.com successfuly completed.
+[03/12/2017 12:56 PM] - SUCCESS :IPN successfully verified.
+[03/12/2017 12:56 PM] - SUCCESS :Creating prodcut Information to send.
+[03/12/2017 12:56 PM] - SUCCESS :Product Email successfully sent to ctaaside@gmail.com.
+[03/12/2017 12:56 PM] - SUCCESS :Notify Email successfully sent to hdsubscription@brogaard.com.
+[03/12/2017 12:56 PM] - SUCCESS :Paypal class finished.
+
+------------------------------------------------------------------
+
+[05/05/2017 5:01 PM] - SUCCESS :Paypal Class Intiated by 173.0.81.1
+[05/05/2017 5:01 PM] - SUCCESS :Post string : transaction_subject=&payment_date=10%3A01%3A23+May+05%2C+2017+PDT&txn_type=web_accept&last_name=klinker&residence_country=FR&item_name=110+kr+for+1+m%E5neds+adgang&payment_gross=&mc_currency=DKK&business=paypal%40brogaard.com&payment_type=instant&protection_eligibility=Eligible&verify_sign=AGVBtjcchZdpMmwaGJXMakrp-RyZAln0gFeAa1O38mGHREshQo7xP0G0&payer_status=verified&payer_email=marilli.klinker%40orange.fr&txn_id=65552705YB1817828&quantity=1&receiver_email=paypal%40brogaard.com&first_name=marilli&payer_id=YMA6K8K9JV39G&receiver_id=KJ8XAP5BBFL34&item_number=1&payment_status=Completed&payment_fee=&mc_fee=6.89&mc_gross=110.00&custom=&charset=windows-1252&notify_version=3.8&ipn_track_id=3582d0a289420&
+[05/05/2017 5:01 PM] - SUCCESS :Validating prodcut 1
+[05/05/2017 5:01 PM] - SUCCESS :Connection to www.paypal.com successfuly completed.
+[05/05/2017 5:01 PM] - SUCCESS :IPN successfully verified.
+[05/05/2017 5:01 PM] - SUCCESS :Creating prodcut Information to send.
+[05/05/2017 5:01 PM] - SUCCESS :Product Email successfully sent to marilli.klinker@orange.fr.
+[05/05/2017 5:01 PM] - SUCCESS :Notify Email successfully sent to hdsubscription@brogaard.com.
+[05/05/2017 5:01 PM] - SUCCESS :Paypal class finished.
+
+------------------------------------------------------------------
+
+[07/09/2017 8:52 AM] - SUCCESS :Paypal Class Intiated by 173.0.81.1
+[07/09/2017 8:52 AM] - SUCCESS :Post string : transaction_subject=&payment_date=01%3A52%3A29+Jul+09%2C+2017+PDT&txn_type=web_accept&last_name=Duminski&residence_country=DK&item_name=110+kr+for+1+m%E5neds+adgang&payment_gross=&mc_currency=DKK&business=paypal%40brogaard.com&payment_type=instant&protection_eligibility=Eligible&verify_sign=Au1Mgu7eAXYpudwKCguvhQxkYUiyAwN9dkOtoDB9h054lb6pqlyg2eoN&payer_status=unverified&payer_email=duminski%40tdcadsl.dk&txn_id=10T98429CG2646713&quantity=1&receiver_email=paypal%40brogaard.com&first_name=Maria&payer_id=JW22CDUKYEWNN&receiver_id=KJ8XAP5BBFL34&item_number=1&payment_status=Completed&payment_fee=&mc_fee=6.34&mc_gross=110.00&custom=&charset=windows-1252&notify_version=3.8&ipn_track_id=77cd9207ad8f8&
+[07/09/2017 8:52 AM] - SUCCESS :Validating prodcut 1
+[07/09/2017 8:52 AM] - SUCCESS :Connection to www.paypal.com successfuly completed.
+[07/09/2017 8:52 AM] - SUCCESS :IPN successfully verified.
+[07/09/2017 8:52 AM] - SUCCESS :Creating prodcut Information to send.
+[07/09/2017 8:52 AM] - SUCCESS :Product Email successfully sent to duminski@tdcadsl.dk.
+[07/09/2017 8:52 AM] - SUCCESS :Notify Email successfully sent to hdsubscription@brogaard.com.
+[07/09/2017 8:52 AM] - SUCCESS :Paypal class finished.
+
+------------------------------------------------------------------
+
+[09/07/2017 10:40 AM] - SUCCESS :Paypal Class Intiated by 173.0.81.1
+[09/07/2017 10:40 AM] - SUCCESS :Post string : transaction_subject=&payment_date=03%3A40%3A38+Sep+07%2C+2017+PDT&txn_type=web_accept&last_name=Br%F8gger&receipt_id=3329-9373-5725-7592&residence_country=DK&item_name=310+kr+for+3+m%E5neders+adgang&payment_gross=&mc_currency=DKK&business=paypal%40brogaard.com&payment_type=instant&protection_eligibility=Ineligible&verify_sign=AMpbjOUq56Sc7K0uM5QvaEH9CPURAnN1y1c8dHJTO7ThCEO2AbGp.aM.&payer_status=unverified&payer_email=ac%40denform.dk&txn_id=0UJ289860S041473X&quantity=1&receiver_email=paypal%40brogaard.com&first_name=Ann+C.&payer_id=2PYN255KWXMXG&receiver_id=KJ8XAP5BBFL34&item_number=2&payment_status=Completed&payment_fee=&mc_fee=13.14&mc_gross=310.00&custom=&charset=windows-1252&notify_version=3.8&ipn_track_id=9bf2e1d8112a1&
+[09/07/2017 10:40 AM] - SUCCESS :Validating prodcut 2
+[09/07/2017 10:40 AM] - SUCCESS :Connection to www.paypal.com successfuly completed.
+[09/07/2017 10:40 AM] - SUCCESS :IPN successfully verified.
+[09/07/2017 10:40 AM] - SUCCESS :Creating prodcut Information to send.
+[09/07/2017 10:40 AM] - SUCCESS :Product Email successfully sent to ac@denform.dk.
+[09/07/2017 10:40 AM] - SUCCESS :Notify Email successfully sent to hdsubscription@brogaard.com.
+[09/07/2017 10:40 AM] - SUCCESS :Paypal class finished.
+
+------------------------------------------------------------------
+
+[12/03/2017 2:13 PM] - SUCCESS :Paypal Class Intiated by 173.0.81.1
+[12/03/2017 2:13 PM] - SUCCESS :Post string : transaction_subject=&payment_date=06%3A13%3A47+Dec+03%2C+2017+PST&txn_type=web_accept&last_name=VAN+DEN+BRINK&residence_country=SG&item_name=110+kr+for+1+m%E5neds+adgang&payment_gross=&mc_currency=DKK&business=paypal%40brogaard.com&payment_type=instant&protection_eligibility=Eligible&verify_sign=ACOn9nC3jCT6lpZc3n7fDxvl7LEnA5yq4KjGY2tZaoGnXC4BVvu7mAMs&payer_status=unverified&payer_email=annelies_vdbrink%40hotmail.com&txn_id=9MC851648F699700F&quantity=1&receiver_email=paypal%40brogaard.com&first_name=Albertus&payer_id=CLAHU9U83JTGS&receiver_id=KJ8XAP5BBFL34&item_number=1&payment_status=Completed&payment_fee=&mc_fee=8.54&mc_gross=110.00&custom=&charset=windows-1252&notify_version=3.8&ipn_track_id=bf914f12c6ae1&
+[12/03/2017 2:13 PM] - SUCCESS :Validating prodcut 1
+[12/03/2017 2:13 PM] - SUCCESS :Connection to www.paypal.com successfuly completed.
+[12/03/2017 2:13 PM] - SUCCESS :IPN successfully verified.
+[12/03/2017 2:13 PM] - SUCCESS :Creating prodcut Information to send.
+[12/03/2017 2:13 PM] - SUCCESS :Product Email successfully sent to annelies_vdbrink@hotmail.com.
+[12/03/2017 2:13 PM] - SUCCESS :Notify Email successfully sent to hdsubscription@brogaard.com.
+[12/03/2017 2:13 PM] - SUCCESS :Paypal class finished.
+
+------------------------------------------------------------------
+

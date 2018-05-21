@@ -1,0 +1,406 @@
+html, body { border: 0; margin: 0; padding: 0; height: 100%; max-height: 100%; overflow: hidden; }
+
+body { font: 0.8125em Verdana, sans-serif; line-height: 1; }           
+  
+img { border: none }
+
+#beltcontainer {
+   position: absolute;
+   top: 0;
+   width: 100%;
+   height: 100%;
+   bottom: 0;
+   left: 0;
+   right: 0;
+}
+
+.beltobjectwrapper {
+   position: absolute;
+	width: 100%;
+	height: 100%;
+	left: 0%;
+	display: table;
+}   
+
+.beltobjectcenterer {
+   width: 100%;
+}
+
+.fitvertical .beltobjectcenterer {
+   height: 100%;
+}
+
+.fithorizontal .beltobjectcenterer {
+   display: table-cell;
+   vertical-align: middle;
+	#position: absolute;
+	#top: 50%;
+}
+
+.beltobject {
+   padding: 0;
+   width: 100%;
+   overflow: hidden;
+}
+
+.fithorizontal .beltobject {
+   #position: relative;
+   #top: -50%;
+}
+
+.fitvertical .beltobject {
+   position: absolute;
+}
+
+.beltobject img {
+   display: block;
+   margin: 0 auto;
+   padding: 0;
+}
+
+.beltobject img {
+   -ms-interpolation-mode:bicubic;
+}
+
+.fithorizontal img {
+   height: auto;
+}
+
+.fitvertical img {
+   height: 100%;
+   width: auto;
+}
+
+#menuwrapper {
+   position: fixed;
+   #position: absolute;
+   margin: 0;
+   z-index: 4;
+   width: 100%;
+}
+
+#menu {
+  margin: 0 auto;
+}
+
+#menu table {
+   height: 100%;
+   width: 100%;
+}   
+
+#menuitems {
+   vertical-align: middle;
+   width: auto;
+   padding: 0;
+   margin: 0;
+}   
+
+#menuitems ul {
+   padding: 0;
+   margin: 0;
+   list-style-type: none;
+   background: red;
+}
+
+#menuitems.row li {
+   display: inline-block;
+   float: left;
+   margin: 0;
+   padding: 0;
+   list-style-type: none;
+}
+
+#menuitems.column li {
+   margin: 0;
+   padding: 0;
+   list-style-type: none;
+}
+
+.controlContainer { display: inline-block; } 
+
+#dotswrapper {
+   width: 100%;
+   text-align: center;
+   position: fixed;
+   #position: absolute;
+   line-height: 0;
+   padding: 0;
+   margin: 0;
+   overflow: hidden;
+   z-index: 3;
+}
+
+#dots {
+   display: inline-block;
+   color: black;
+   font-family: Times;
+   white-space: nowrap;
+}
+
+#dots a {
+   display: inline-block;
+   padding: 0 2px;
+   cursor: pointer;
+}
+
+#dots a.selected {
+   opacity: 1;
+   filter:alpha(opacity=100);
+}
+
+.slant {
+  line-height: 0;
+  height: 0;
+  border-style: solid;
+  display: inline-block;
+  padding: 0px;
+  margin: 0px;
+  width: 0;
+}
+
+#pausebutton1 {
+  display: none;
+}
+
+#logo {
+   position: fixed;
+   #position: absolute;
+   margin: 0;
+   z-index: 3;
+}
+
+.loading {
+   width: 100%;
+   text-align: center;
+   white-space: nowrap;
+   overflow: hidden;
+   font-family: Times;
+   position: relative;
+}
+
+.loading span {
+   display: inline-block;
+   opacity: 0;
+   filter:alpha(opacity=0);
+}
+
+#pr1, #pr2 {
+   position: fixed;
+   #position: absolute;
+   width: 100%;
+   height: 100%;
+   top: 0;
+   left: 0;
+}
+
+#pr1 { z-index: 1 }
+#pr2 { z-index: 1 }
+
+#pr1 img {
+   width: 100%;
+   height: 100%;
+}
+
+/* Descriptions */
+
+.descriptionWrapperWrapper {
+   position: absolute;
+   display: block;
+   left: 0px;
+   width: 100%;
+   z-index: 1;
+}
+
+.descriptionWrapper {
+   position: relative;
+}
+
+.description {
+   position: relative;
+   float: left;
+}
+
+/* Webkit slide animations */
+
+@-webkit-keyframes slideInLeft {
+  from {
+    -webkit-transform: translate3d(100%,0,0);
+    visibility: visible;
+    opacity: 1;
+  }
+
+  to {
+    -webkit-transform: translate3d(0%,0,0);
+    visibility: visible;
+    opacity: 1;
+  }
+}
+
+@-webkit-keyframes slideOutLeft {
+  from {
+    -webkit-transform: translate3d(0%,0,0);
+    visibility: visible;
+    opacity: 1;
+  }
+
+  to {
+    -webkit-transform: translate3d(-100%,0,0);
+    visibility: visible;
+    opacity: 1;
+  }
+}
+
+@-webkit-keyframes slideInRight {
+  from {
+    -webkit-transform: translate3d(-100%,0,0);
+    visibility: visible;
+    opacity: 1;
+  }
+
+  to {
+    -webkit-transform: translate3d(0%,0,0);
+    visibility: visible;
+    opacity: 1;
+  }
+}
+
+@-webkit-keyframes slideOutRight {
+  from {
+    -webkit-transform: translate3d(0%,0,0);
+    visibility: visible;
+    opacity: 1;
+  }
+
+  to {
+    -webkit-transform: translate3d(100%,0,0);
+     visibility: visible;
+    opacity: 1;
+  }
+}
+
+/* Styles applied to start the animation and define the end parameters.
+ * Without the style rules the animation resets to the "from" parameters.
+ */
+
+.slideInLeft {
+   -webkit-transform: translate3d(0%,0,0) !important;
+   visibility: visible !important;
+   opacity: 1 !important;
+   
+   -webkit-animation-name: slideInLeft;
+   -webkit-animation-iteration-count: 1;
+}
+
+.slideOutLeft {
+   -webkit-transform: translate3d(-100%,0,0) !important;
+   visibility: hidden !important;
+   opacity: 1 !important;
+   
+   -webkit-animation-name: slideOutLeft;
+   -webkit-animation-iteration-count: 1;
+}
+
+.slideInRight {
+   -webkit-transform: translate3d(0%,0,0) !important;
+   visibility: visible !important;
+   opacity: 1 !important;
+   
+   -webkit-animation-name: slideInRight;
+   -webkit-animation-iteration-count: 1;
+}
+
+.slideOutRight {
+   -webkit-transform: translate3d(100%,0,0) !important;
+   visibility: hidden !important;
+   opacity: 1 !important;
+   
+   -webkit-animation-name: slideOutRight;
+   -webkit-animation-iteration-count: 1;
+}
+
+/* Applied after rotation to avoid seeing the animation again */
+
+.slidInLeft {
+   -webkit-transform: translate3d(0%,0,0) !important;
+   visibility: visible !important;
+   opacity: 1 !important;
+}
+
+.slidOutLeft {
+   -webkit-transform: translate3d(-100%,0,0) !important;
+   visibility: hidden !important;
+   opacity: 1 !important;
+}
+
+.slidInRight {
+   -webkit-transform: translate3d(0%,0,0) !important;
+   visibility: visible !important;
+   opacity: 1 !important;
+}
+
+.slidOutRight {
+   -webkit-transform: translate3d(100%,0,0) !important;
+   visibility: hidden !important;
+   opacity: 1 !important;
+}
+
+/* Webkit image fade animations */
+
+@-webkit-keyframes fadeIn {
+  from {
+    opacity: 0;
+    visibility: visible;
+  }
+
+  to {
+    opacity: 1;
+    visibility: visible;
+  }
+}
+
+@-webkit-keyframes fadeOut {
+  from {
+    opacity: 1;
+    visibility: visible;
+  }
+
+  to {
+    opacity: 0;
+    visibility: visible;
+  }
+}
+
+.fadeIn {
+   opacity: 1 !important;
+   visibility: visible !important;
+   
+   -webkit-animation-name: fadeIn;
+   -webkit-animation-iteration-count: 1;
+}
+
+.fadeOut {
+   opacity: 0 !important;
+   visibility: hidden !important;
+   
+   -webkit-animation-name: fadeOut;
+   -webkit-animation-iteration-count: 1;
+}
+
+/* Applied after rotation to avoid seeing the animation again */
+
+.fadedIn {
+   opacity: 1 !important;
+   visibility: visible !important;
+}
+
+.fadedOut {
+   opacity: 0 !important;
+   visibility: hidden !important;
+}
+
+/* Styles for the Non-Javascript version */
+
+.controlContainer a {
+  display:block;
+  text-decoration:none;
+}

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+        <title></title>
+        <script type="text/javascript" src="swfobject.js"></script>
+        <style type="text/css">
+	body {
+		color: #FFF;
+		font-family:sans-serif;
+		font-size:40;
+		background-color: #F5F5F5;
+	}
+	
+	h3 {
+		color: #999999;
+	}
+	
+	a {
+		color:#F60;
+	}
+	
+	.page {
+		text-align:center;
+	}
+
+</style>
+    </head>
+    <body>
+        <h3></h3>
+        <div class="page">
+            <div id="container">
+                <a href="http://www.macromedia.com/go/getflashplayer">Get the Flash Player</a>
+                 to see this slideshow.</div>
+            <script type="text/javascript">
+        var s1 = new SWFObject("imagerotator.swf","rotator",'700','700',"7");
+        s1.addParam("allowfullscreen","true");
+        s1.addVariable("file","slideshow.xml");
+        
+        s1.addVariable("volume",'75');
+        s1.addVariable("audio",'http://www.brogaard.com/soundtrack.mp3');	
+        
+        s1.addVariable("transition", 'random'); // random, fade, bgfade, blocks, bubbles, circles, flash, fluids, lines, slowfade
+        s1.addVariable("repeat",'true');
+        s1.addVariable("shuffle",'true');		
+        s1.addVariable("rotatetime",'5'); // seconds
+        
+        s1.addVariable("width",'700');
+        s1.addVariable("height",'700');
+        s1.addVariable("screencolor",'0xF5F5F5');	
+        s1.addVariable("backcolor",'0x000000');			
+        s1.write("container");
+    </script>
+        </div>
+    </body>
+</html>

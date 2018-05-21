@@ -1,0 +1,161 @@
+/* Search icon by IcoMoon, made with http://icomoon.io/app/ */
+@font-face {
+	font-family: 'icomoon';
+	src:url('../fonts/icomoon/icomoon.eot');
+	src:url('../fonts/icomoon/icomoon.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/icomoon/icomoon.woff') format('woff'),
+		url('../fonts/icomoon/icomoon.ttf') format('truetype'),
+		url('../fonts/icomoon/icomoon.svg#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face{
+	font-family:'Pe-icon-7-stroke';
+	src:url(../assets/css/fonts/Pe-icon-7-stroke.ttf)format('truetype');;	
+	
+}
+
+  @font-face{
+	
+ 	font-family:'Myriadthin';
+	src:url(../assets/css/font/fonts/MyriadSetPro-Thin.ttf)format('truetype');
+ }
+
+.sb-search {
+	position: relative;
+	width: 0%;
+	min-width: 44px;
+	height: 44px;
+	float: left;
+	overflow: hidden;
+	-webkit-transition: width 0.3s;
+	-moz-transition: width 0.3s;
+	transition: width 0.3s;
+	-webkit-backface-visibility: hidden;
+}
+
+.sb-search-input {
+	/*position: absolute;*/
+	top: 0;
+	right: 0;
+	border: none;
+	outline: none;
+	background: #fefefe;
+	width: 100%;
+	height: 30px;
+	margin-top:5px;
+	z-index: 10;
+	border-radius:5px;
+	/*padding: 20px 65px 20px 20px;*/
+	padding: 20px 60px 16px 30px;
+	font-family: inherit;
+	font-size: 17px;
+	color: #333;
+	font-family:Myriadthin !important;
+}
+
+
+.sb-search-input::-webkit-input-placeholder {
+	color: #333;
+}
+
+.sb-search-input:-moz-placeholder {
+	color: #333;
+}
+
+.sb-search-input::-moz-placeholder {
+	color: #333;
+}
+
+.sb-search-input:-ms-input-placeholder {
+	color: #333;
+}
+
+.sb-icon-search,
+.sb-search-submit  {
+	width: 44px;
+	height: 44px;
+	display: block;
+	position: absolute;
+	right: 0;
+	top: 3px;
+	padding: 0;
+	margin: 0;
+	line-height: 44px;
+	text-align: center;
+	cursor: pointer;
+}
+
+.sb-search-submit {
+	background: #fff; /* IE needs this */
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)"; /* IE 8 */
+    filter: alpha(opacity=0); /* IE 5-7 */
+    opacity: 0;
+	color: transparent;
+	border: none;
+	outline: none;
+	z-index: -1;
+}
+
+.sb-icon-search {
+	color: #fff;
+	background:rgb(105,105,105);
+	z-index: 90;
+	font-size: 24px;
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	-webkit-font-smoothing: antialiased;
+	font-family: 'Pe-icon-7-stroke';
+}
+
+  
+.sb-icon-search:before {
+
+/*	content: "\e000";*/
+	/*content: "\e003";*/
+	content: "\e618";
+
+}
+
+/* Open state */
+.sb-search.sb-search-open,
+.no-js .sb-search {
+	width: 22%;
+	cursor:auto;
+}
+
+
+.sb-search.sb-search-open .sb-icon-search,
+.no-js .sb-search .sb-icon-search {
+
+	background:#fff;
+	color: #333;
+	z-index: 11;
+	width: 30px;
+	height: 0px;
+	
+}
+
+
+.sb-search.sb-search-open .sb-search-submit,
+.no-js .sb-search .sb-search-submit {
+	z-index: 90;
+}
+
+@media screen and (min-width: 240px) and (max-width:320px){
+	.sb-search.sb-search-open,
+.no-js .sb-search {
+	width: 100%;
+}
+}
+@media screen and (min-width: 320px) and (max-width:769px){
+	.sb-search.sb-search-open,
+.no-js .sb-search {
+	width: 100%;
+}
+}
+

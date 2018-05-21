@@ -1,0 +1,297 @@
+<!-- Rmail for PHP: A PHP class to send email with attachments -->
+<!-- http://www.phpguru.org/downloads/Rmail/Rmail%20for%20PHP/ -->
+<html>
+<head>
+    <title>Documentation for Rmail PHP email class</title>
+    
+    <style>
+        body {
+            font-family: Georgia, sans-serif;
+        }
+        
+        pre {
+            background-color: #eee;
+            border: 2px dashed #ccc;
+            font-family: Monospace;
+            display: block;
+            padding: 3px;
+        }
+        
+        div.codeexample {
+            background-color: #ddd;
+            padding: 3px;
+            border: 1px dashed gray;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Documentation for the Rmail PHP email class</h1>
+
+    <ul>
+        <li><a href="#intro">Introduction</a></li>
+        <li><a href="#example">Example</a></li>
+        <li><a href="#methods">Methods</a></li>
+    </ul>
+    
+    <a name="intro"></a>
+    <h2>Introduction</h2>
+    
+    <p>
+        Rmail is a PHP class for sending a wide variety of types of email in PHP. Amongst others, it can send:
+    </p>
+    
+    <ul>
+        <li>Plain text email with or without attachments</li>
+        <li>HTML only email with or without attachments</li>
+        <li>Combined text/HTML email with or without attachments</li>
+        <li>HTML email with embedded and/or external images with or without attachments</li>
+    </ul>
+    
+    <p>
+        Basically, if there's a type of email you want to send, this class can probably do it!
+    </p>
+    
+    <a name="example"></a>
+    <h2>Example</h2>
+    
+    <p>
+        What follows is an example usage. You can also see the <a href="http://www.phpguru.org/downloads/html.mime.mail/Rmail/example.phps">example.php</a>
+        file to see what it looks like.
+    </p>
+    
+    <pre>
+&lt;?php
+    require_once('Rmail.php');
+    
+    $mail = new Rmail();                                       // Create the email object
+    $mail->setFrom('Richard &lt;richard@example.com&gt;');     // Set the From: address
+    $mail->setCc('Bob &lt;bob@example.com&gt;');               // Set the Cc: address (es)
+    $mail->setBcc('Fred &lt;fred@example.com&gt;');            // Set the Bcc: address(es)
+    $mail->setSubject('Test email');                           // Set the subject
+    $mail->setPriority('high');                                // Set the priority
+    $mail->setText('Sample text');                             // Set the text
+    $mail->setHTML('&lt;b&gt;Sample HTML&lt;/b&gt; Hello world!'); // Set the HTML (optional)
+    $mail->setReceipt('test@test.com');                        // Set a receipt
+    $mail->addAttachment(new FileAttachment('/path/to/file')); // Add a file to the email
+    $result = $mail->send(array('recipient@domain.com'));      // Send the email
+?&gt;
+</pre>
+
+    <p>
+        In the archive you'll find <a href="example2.phps">example2.php</a>, which shows you how you can use the getRFC822() method to retrieve the raw
+        email, and subsequently attach it to another email.
+    </p>
+
+    <a name="methods"></a>
+    <h2>Method reference</h2>
+    
+    <p>
+        Here follows a list of methods available to you to use and what they do.g
+    </p>
+    
+    <ul>
+        <li><a href="#constructor">constructor</a></li>
+        <li><a href="#setCRLF">setCRLF()</a></li>
+        <li><a href="#setSMTPParams">setSMTPParams()</a></li>
+        <li><a href="#setSendmailPath">setSendmailPath()</a></li>
+        <li><a href="#setTextEncoding">setTextEncoding()</a></li>
+        <li><a href="#setHTMLEncoding">setHTMLEncoding()</a></li>
+        <li><a href="#setTextCharset">setTextCharset()</a></li>
+        <li><a href="#setHTMLCharset">setHTMLCharset()</a></li>
+        <li><a href="#setHeadCharset">setHeadCharset()</a></li>
+        <li><a href="#setTextWrap">setTextWrap()</a></li>
+        <li><a href="#setHeader">setHeader()</a></li>
+        <li><a href="#setReceipt">setReceipt()</a></li>
+        <li><a href="#setSubject">setSubject()</a></li>
+        <li><a href="#setFrom">setFrom()</a></li>
+        <li><a href="#setPriority">setPriority()</a></li>
+        <li><a href="#setReturnPath">setReturnPath()</a></li>
+        <li><a href="#setCc">setCc()</a></li>
+        <li><a href="#setBcc">setBcc()</a></li>
+        <li><a href="#setText">setText()</a></li>
+        <li><a href="#setHTML">setHTML()</a></li>
+        <li><a href="#addAttachment">addAttachment()</a></li>
+        <li><a href="#send">send()</a></li>
+        <li><a href="#getRFC822">getRFC822()</a></li>
+    </ul>
+    
+    <ul>
+        <li>
+            <a name="constructor"></a>
+            <b>constructor<br /></b>
+            Nothing to pass to it. It only serves to initialise the email.<br /><br />
+            <div class="codeexample">$mail = new Rmail();</div>
+        </li>
+        <li>
+            <a name="setCRLF"></a>
+            <b>setCRLF($crlf)<br /></b>
+            Set the line ending used. Defaults to <b>\r\n</b>. If this is not working for you, (it does most of the time),
+            you could try <b>\n</b> instead.
+            <br /><br />
+            <div class="codeexample">$mail-&gt;setCRLF("\r\n");</div>
+        </li>
+        <li>
+            <a name="setSMTPParams"></a>
+            <b>setSMTPParams([$host[, $port[, $helo[, $auth[, $user[, $pass]]]]])<br /></b>
+            The parameters that you can use to setup the SMTP connection. $host is the hostname or IP address to connect to.
+            $port is the port the server runs on.$helo is the SMTP HELO phrase to use. $auth is a boolean controlling whether
+            to use authentication. $user is the username to use with authentication, and $pass is the password to use.
+            <br /><br />
+            <div class="codeexample">$mail-&gt;setSMTPParams('mail.example.com', 25, 'my.host.com', true, 'user', 'pass');</div>
+        </li>
+        <li>
+            <a name="setSendmailPath"></a>
+            <b>setSendmailPath($path)<br /></b>
+            This is the string (eg <b>/usr/lib/sendmail -ti</b>) to use when sending via a sendmail binary.
+            <br /><br />
+            <div class="codeexample">$mail-&gt;setSendmailPath('/usr/lib/sendmail -ti');</div>
+        </li>
+        <li>
+            <a name="setTextEncoding"></a>
+            <b>setTextEncoding($encoding)<br /></b>
+            This is an encoding object to use when encoding the text. eg <b>$mail->setTextEncoding(new SevenBitEncoding())</b>.
+            <br /><br />
+            <div class="codeexample">$mail-&gt;setTextEncoding(new SevenBitEncoding());</div>
+        </li>
+        <li>
+            <a name="setHTMLEncoding"></a>
+            <b>setHTMLEncoding($encoding)<br /></b>
+            This is an encoding object to use when encoding the HTML.</b>.
+            <br /><br />
+            <div class="codeexample">$mail-&gt;setHTMLEncoding(new QPrintEncoding());</div>
+        </li>
+        <li>
+            <a name="setTextCharset"></a>
+            <b>setTextCharset($charset)<br /></b>
+            Sets the character set to set for the text part of the email. Default is <b>ISO-8859-1</b>
+            <br /><br />
+            <div class="codeexample">$mail-&gt;setTextCharset('ISO-8859-1');</div>
+        </li>
+        <li>
+            <a name="setHTMLCharset"></a>
+            <b>setHTMLCharset($charset)<br /></b>
+            Sets the character set to set for the HTML part of the email. Default is <b>ISO-8859-1</b>
+            <br /><br />
+            <div class="codeexample">$mail-&gt;setHTMLCharset('ISO-8859-1');</div>
+        </li>
+        <li>
+            <a name="setHeadCharset"></a>
+            <b>setHeadCharset($charset)<br /></b>
+            Sets the character set to set for the email headers. Default is <b>ISO-8859-1</b>
+            <br /><br />
+            <div class="codeexample">$mail-&gt;setHeadCharset('ISO-8859-1');</div>
+        </li>
+        <li>
+            <a name="setTextWrap"></a>
+            <b>setTextWrap($length)<br /></b>
+            Sets the point at which long line are wrapped. Default is <b>998</b>.
+            <br /><br />
+            <div class="codeexample">$mail-&gt;setTextWrap(998);</div>
+        </li>
+        <li>
+            <a name="setHeader"></a>
+            <b>setHeader($name, $value)<br /></b>
+            Sets a header to add to the email. You can use this to add custom headers to the email if you wish.
+            <br /><br />
+            <div class="codeexample">$mail-&gt;setHeader('Reply-To', 'bob@example.com');</div>
+        </li>
+        <li>
+            <a name="setReceipt"></a>
+            <b>setReceipt($email)<br /></b>
+            Sets an email for a receipt to be sent to. This is dependent on the recipient of the email and their email
+            software.   
+            <br /><br />
+            <div class="codeexample">$mail-&gt;setReceipt('me@domain.com');</div>
+        </li>
+        <li>
+            <a name="setSubject"></a>
+            <b>setSubject($subject)<br /></b>
+            Sets the subject of the email.
+            <br /><br />
+            <div class="codeexample">$mail-&gt;setSubject('An example subject');</div>
+        </li>
+        <li>
+            <a name="setFrom"></a>
+            <b>setFrom($from)<br /></b>
+            Sets the From: address used in the email.
+            <br /><br />
+            <div class="codeexample">$mail-&gt;setFrom('me@example.com');</div>
+        </li>
+        <li>
+            <a name="setPriority"></a>
+            <b>setPriority($priority)<br /></b>
+            Sets the priority of the email. You can specify the priority as: <i>low, normal, high, 1, 3, 5</i>
+            Default is <b>normal</b>.
+            <br /><br />
+            <div class="codeexample">$mail-&gt;setPriority('high');</div>
+        </li>
+        <li>
+            <a name="setReturnPath"></a>
+            <b>setReturnPath($return_path)<br /></b>
+            Sets the Return-Path: email address for bounces. Your server may change this.
+            <br /><br />
+            <div class="codeexample">$mail-&gt;setReturnPath('bounces@example.com');</div>
+        </li>
+        <li>
+            <a name="setCc"></a>
+            <b>setCc($cc)<br /></b>
+            Sets the Cc: header of the email.
+            <br /><br />
+            <div class="codeexample">$mail-&gt;setCc('fred@example.com');</div>
+        </li>
+        <li>
+            <a name="setBcc"></a>
+            <b>setBcc($bcc)<br /></b>
+            Sets the Bcc: header of the email.
+            <br /><br />
+            <div class="codeexample">$mail-&gt;setBcc('jemima@example.com');</div>
+        </li>
+        <li>
+            <a name="setText"></a>
+            <b>setText($text)<br /></b>
+            Sets the plain text part of the email.
+            <br /><br />
+            <div class="codeexample">$mail-&gt;setText('The plain text part');</div>
+        </li>
+        <li>
+            <a name="setHTML"></a>
+            <b>setHTML($html[, $images_dir])<br /></b>
+            Sets the HTML part of the email. When you do this the class will try to find any images used
+            in the HTML in images directory you have given. If it finds them, it will embed them.
+            <br /><br />
+            <div class="codeexample">$mail-&gt;setHTML('The &lt;b&gt;HTML&lt;/b&gt; part', './images');</div>
+        </li>
+        <li>
+            <a name="addAttachment"></a>
+            <b>addAttachment(new FileAttachment($filename))<br /></b>
+            Add an attachment to the email. This reads in the file you specify and attempts to attach it.
+            <br /><br />
+            <div class="codeexample">$mail-&gt;addAttachment(new FileAttachment('foo.zip'));</div>
+        </li>
+        <li>
+            <a name="send"></a>
+            <b>send($addresses[, $method])<br /></b>
+            Unsurprisingly, sends the email. Pass this an array of email addresses and it will attempt
+            to send the email to each. $method can be one of: <i>mail</i> - sends the email using the PHP
+            mail() function, <i>sendmail</i> - the email will sent using the sendmail binary directly
+            or <i>smtp</i> - the email will be sent over the network using SMTP.
+            <br /><br />
+            <div class="codeexample">$mail-&gt;send(array('barry@example.com'));</div>
+        </li>
+        <li>
+            <a name="getRFC822"></a>
+            <b>getRFC822($recipients[, $method])<br /></b>
+            Builds the email and returnss it as text instead of sending it. This can used in the event
+            that you want to attach one email to another. You can build an email, get it using this
+            method, and then attach to another using <i>addAttachment()</i>. The <i>$method</i> argument
+            should be the same as that used when you call <i>send()</i>. If you don't specify one then,
+            don't specify one here. It's simply used to ensure the correct line-ending is used.
+            <br /><br />
+            <div class="codeexample">$source = $mail-&gt;getRFC822(array('richard@example.com'));</div>
+        </li>
+    </ul>
+
+</body>
+</html>
